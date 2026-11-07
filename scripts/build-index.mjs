@@ -225,8 +225,7 @@ export async function mergeIndexes(sources, fetchUpstream = fetchIndex) {
     {
       format: 1,
       name: "Valenced Unofficial All-Repos Index",
-      description:
-        "Aggregated listings from independent third-party repositories. Sources are not reviewed or endorsed; install only plugins you trust.",
+      description: "All in one community repos for people thats lazy to browse through the community repos",
       plugins: sortKeys(pluginDocument),
     },
     sortKeys(sourceDocument),
