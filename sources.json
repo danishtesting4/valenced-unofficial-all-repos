@@ -1,0 +1,84 @@
+{
+  "sources": [
+    {
+      "name": "Rosie's Plugs",
+      "index_url": "https://val.is-your.app/",
+      "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
+    },
+    {
+      "name": "LisaExists",
+      "index_url": "https://lisaexists.github.io/valenced-plugins/",
+      "source_url": "https://github.com/LisaExists/valenced-plugins"
+    },
+    {
+      "name": "EskimoPlugins",
+      "index_url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/index.json",
+      "source_url": "https://github.com/MarkLong0467/EskimoPlugins"
+    },
+    {
+      "name": "Bazinga",
+      "index_url": "https://bleelblep.github.io/bleel-bazinga-repo/index.json",
+      "source_url": "https://github.com/bleelblep/bleel-bazinga-repo"
+    },
+    {
+      "name": "Freestyle",
+      "index_url": "https://yumistra.github.io/Freestyle-Valenced",
+      "source_url": "https://github.com/Yumistra/Freestyle-Valenced"
+    },
+    {
+      "name": "NoReplyUI5",
+      "index_url": "https://noreplyui5.github.io/valenced-plugin/",
+      "source_url": "https://github.com/NoReplyUI5/valenced-plugin"
+    },
+    {
+      "name": "Choco",
+      "index_url": "https://otkusteyler.github.io/chocos-plugins/",
+      "source_url": "https://github.com/OTKUSteyler/chocos-plugins"
+    },
+    {
+      "name": "Benjii",
+      "index_url": "https://plugins.benjiisworld.com/",
+      "source_url": "https://github.com/Accentaro/Valenced-Plugins"
+    },
+    {
+      "name": "Purple-EyeZ",
+      "index_url": "https://purple-eyez.github.io/Valenced-Plugins/",
+      "source_url": "https://github.com/Purple-EyeZ/Valenced-Plugins"
+    },
+    {
+      "name": "Livie",
+      "index_url": "https://lvwmwm.github.io/liver-valenced-plugins",
+      "source_url": "https://github.com/lvwmwm/liver-valenced-plugins"
+    },
+    {
+      "name": "tralwdwd",
+      "index_url": "https://valenced.tralwdwd.dev/",
+      "source_url": "https://github.com/tralwdwd/valenced-plugins"
+    },
+    {
+      "name": "slimplugins",
+      "index_url": "https://aeongdesu.github.io/slimplugins",
+      "source_url": "https://github.com/aeongdesu/slimplugins"
+    },
+    {
+      "name": "Mudrhiod",
+      "index_url": "https://valenced.mudrhiod.me/",
+      "source_url": "https://github.com/mudrhiod/valenced-plugins"
+    },
+    {
+      "name": "k1ng0p",
+      "index_url": "https://k1ng0p.github.io/Valenced-Plugins-by-k1ng0p/",
+      "source_url": "https://github.com/k1ng0p/Valenced-Plugins-by-k1ng0p"
+    },
+    {
+      "name": "dxckie",
+      "index_url": "https://dxckie-cell.github.io/valenced-plugins",
+      "source_url": "https://github.com/dxckie-cell/valenced-plugins"
+    },
+    {
+      "name": "Wolf Plugins",
+      "index_url": "https://plugins.obamabot.me/valenced-plugins",
+      "source_url": "https://github.com/WolfPlugs/valenced-plugins"
+    }
+  ]
+}
