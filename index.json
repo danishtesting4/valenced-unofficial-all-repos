@@ -1,7 +1,7 @@
 {
-  "description": "All in one community repos for people thats lazy to browse through the community repos",
+  "description": "All the community plugin repos in one place, so you don't have to browse them one by one.",
   "format": 1,
-  "name": "Valenced Unofficial All-Repos Index",
+  "name": "Unofficial Community Plugins",
   "plugins": {
     "benjii.dev.theme.catppuccin": {
       "author": "Benjii <463702169443368970>",
@@ -4560,7 +4560,7 @@
       }
     },
     "lisaexists.custom-voice-messages": {
-      "author": "LisaExists",
+      "author": "LisaExists <836161010053283890>",
       "channels": {
         "latest": "1.1.12"
       },

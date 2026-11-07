@@ -1,4 +1,4 @@
-name: Refresh combined index
+name: Keep the combined index up to date
 
 on:
   schedule:
@@ -20,11 +20,11 @@ jobs:
       - uses: actions/setup-node@v7
         with:
           node-version: "22"
-      - name: Run generator tests
+      - name: Check the index generator
         run: node --test tests/*.test.mjs
-      - name: Validate and regenerate indexes
+      - name: Refresh from upstream
         run: node scripts/build-index.mjs
-      - name: Publish changes
+      - name: Publish index changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

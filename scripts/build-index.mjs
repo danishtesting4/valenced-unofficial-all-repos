@@ -224,8 +224,8 @@ export async function mergeIndexes(sources, fetchUpstream = fetchIndex) {
   return [
     {
       format: 1,
-      name: "Valenced Unofficial All-Repos Index",
-      description: "All in one community repos for people thats lazy to browse through the community repos",
+      name: "Unofficial Community Plugins",
+      description: "All the community plugin repos in one place, so you don't have to browse them one by one.",
       plugins: sortKeys(pluginDocument),
     },
     sortKeys(sourceDocument),
@@ -262,9 +262,9 @@ async function main() {
     const [index, sourceMap] = await mergeIndexes(sources);
     await writeJson(indexPath, index);
     await writeJson(sourceMapPath, sourceMap);
-    console.log(`Generated index.json: ${Object.keys(index.plugins).length} plugins from ${sources.length} sources.`);
+    console.log(`Updated index.json with ${Object.keys(index.plugins).length} plugins from ${sources.length} repos.`);
   } catch (error) {
-    console.error(`Index generation failed: ${error.message}`);
+    console.error(`Couldn't rebuild the index: ${error.message}`);
     process.exitCode = 1;
   }
 }

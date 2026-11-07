@@ -1,20 +1,22 @@
-# Valenced Unofficial All-Repos Index
+# Community plugins, in one place
 
-One Valenced repository URL for the 16 unofficial plugin indexes collected from the community. The combined index is regenerated weekly from the upstream sources; plugin archives remain hosted by their original publishers.
+Add one URL in Valenced to browse listings from the community repositories below. The combined index refreshes every Monday, and plugin files stay hosted by their original publishers.
 
-## Add to Valenced
+## Add it to Valenced
 
-Add this URL as a plugin repository:
+Use this as the repository URL:
 
 ```text
 https://raw.githubusercontent.com/danishtesting4/valenced-unofficial-all-repos/main/index.json
 ```
 
-## Trust and provenance
+## Before you install
 
-This is an unofficial aggregation, not a review or endorsement. Upstream repositories and plugins may be incomplete, unmaintained, or unsafe. Review a plugin's author and source before installing it, and install only software you trust. Inclusion can change as upstream indexes change.
+These are unofficial community repositories, and this project does not review their code. Plugins run inside your Discord client, so check who made a plugin and what it does before installing it. Install only what you trust.
 
-The Valenced index format does not expose a per-plugin upstream repository link in the client. `source-map.json` maps every plugin ID in the combined index to its upstream index and source repository; `sources.json` is the maintained source registry.
+Valenced does not show a separate upstream link for every listing. `source-map.json` records where each plugin came from, and `sources.json` lists the indexes this project follows. The plugin titles, descriptions, authors, and release details are kept as published by their original repositories.
+
+## Repositories we follow
 
 | Repository | Upstream index | Source |
 | --- | --- | --- |
@@ -35,13 +37,15 @@ The Valenced index format does not expose a per-plugin upstream repository link 
 | dxckie | [Index](https://dxckie-cell.github.io/valenced-plugins) | [Source](https://github.com/dxckie-cell/valenced-plugins) |
 | Wolf Plugins | [Index](https://plugins.obamabot.me/valenced-plugins) | [Source](https://github.com/WolfPlugs/valenced-plugins) |
 
-## Maintenance
+## Keeping it up to date
 
-The scheduled GitHub Action validates every upstream index and rebuilds `index.json` and `source-map.json` on Mondays. If any source is unreachable or invalid, generation fails and the last working index is left untouched. Run the same validation locally with Node.js 22 or newer:
+Every Monday, GitHub Actions checks the upstream indexes and rebuilds the combined one. If a source is unavailable or its index is invalid, the update stops and the last working index stays live.
+
+To run the same checks locally, use Node.js 22 or newer:
 
 ```text
 node scripts/build-index.mjs
 node --test tests/*.test.mjs
 ```
 
-The aggregator does not mirror plugin archives or modify upstream plugin code.
+This project combines listings; it does not copy or change the plugins themselves.
