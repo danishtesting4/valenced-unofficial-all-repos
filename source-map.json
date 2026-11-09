@@ -47,6 +47,12 @@
     "source": "Bazinga",
     "source_url": "https://github.com/bleelblep/bleel-bazinga-repo"
   },
+  "bleelblep.ghost-log-ng": {
+    "index_url": "https://bleelblep.github.io/bleel-bazinga-repo/index.json",
+    "name": "Ghost Log Next Gen",
+    "source": "Bazinga",
+    "source_url": "https://github.com/bleelblep/bleel-bazinga-repo"
+  },
   "bleelblep.hide-call-buttons": {
     "index_url": "https://bleelblep.github.io/bleel-bazinga-repo/index.json",
     "name": "Hide Call Buttons",
@@ -62,6 +68,12 @@
   "bleelblep.live-markdown": {
     "index_url": "https://bleelblep.github.io/bleel-bazinga-repo/index.json",
     "name": "Live Markdown",
+    "source": "Bazinga",
+    "source_url": "https://github.com/bleelblep/bleel-bazinga-repo"
+  },
+  "bleelblep.multi-scrobbler": {
+    "index_url": "https://bleelblep.github.io/bleel-bazinga-repo/index.json",
+    "name": "Multi Scrobbler",
     "source": "Bazinga",
     "source_url": "https://github.com/bleelblep/bleel-bazinga-repo"
   },
@@ -212,6 +224,12 @@
   "dev.benjii.declutter": {
     "index_url": "https://plugins.benjiisworld.com/",
     "name": "Declutter",
+    "source": "Benjii",
+    "source_url": "https://github.com/Accentaro/Valenced-Plugins"
+  },
+  "dev.benjii.dyslexia-friendly-fonts": {
+    "index_url": "https://plugins.benjiisworld.com/",
+    "name": "Dyslexia Friendly Fonts",
     "source": "Benjii",
     "source_url": "https://github.com/Accentaro/Valenced-Plugins"
   },
@@ -485,6 +503,12 @@
     "source": "EskimoPlugins",
     "source_url": "https://github.com/MarkLong0467/EskimoPlugins"
   },
+  "marklong.better-folders": {
+    "index_url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/index.json",
+    "name": "Better Folders",
+    "source": "EskimoPlugins",
+    "source_url": "https://github.com/MarkLong0467/EskimoPlugins"
+  },
   "marklong.bypass-status": {
     "index_url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/index.json",
     "name": "Bypass Status",
@@ -518,6 +542,12 @@
   "marklong.custom-sounds": {
     "index_url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/index.json",
     "name": "Custom Sounds",
+    "source": "EskimoPlugins",
+    "source_url": "https://github.com/MarkLong0467/EskimoPlugins"
+  },
+  "marklong.flame-text": {
+    "index_url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/index.json",
+    "name": "Flame Text",
     "source": "EskimoPlugins",
     "source_url": "https://github.com/MarkLong0467/EskimoPlugins"
   },
@@ -587,6 +617,12 @@
     "source": "EskimoPlugins",
     "source_url": "https://github.com/MarkLong0467/EskimoPlugins"
   },
+  "marklong.plugin-auditor": {
+    "index_url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/index.json",
+    "name": "Plugin Auditor",
+    "source": "EskimoPlugins",
+    "source_url": "https://github.com/MarkLong0467/EskimoPlugins"
+  },
   "marklong.quiet-hours": {
     "index_url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/index.json",
     "name": "Quiet Hours",
@@ -623,6 +659,12 @@
     "source": "EskimoPlugins",
     "source_url": "https://github.com/MarkLong0467/EskimoPlugins"
   },
+  "marklong.silence-users": {
+    "index_url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/index.json",
+    "name": "Silence Users",
+    "source": "EskimoPlugins",
+    "source_url": "https://github.com/MarkLong0467/EskimoPlugins"
+  },
   "marklong.slowmode-extended": {
     "index_url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/index.json",
     "name": "Slowmode Extended",
@@ -650,6 +692,12 @@
   "marklong.text-react": {
     "index_url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/index.json",
     "name": "Text React",
+    "source": "EskimoPlugins",
+    "source_url": "https://github.com/MarkLong0467/EskimoPlugins"
+  },
+  "marklong.timestamp-maker": {
+    "index_url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/index.json",
+    "name": "Timestamp Maker",
     "source": "EskimoPlugins",
     "source_url": "https://github.com/MarkLong0467/EskimoPlugins"
   },
@@ -707,120 +755,6 @@
     "source": "Purple-EyeZ",
     "source_url": "https://github.com/Purple-EyeZ/Valenced-Plugins"
   },
-  "rosie.aetheris-bg-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Aetheris BG",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.agender-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Agender Pride",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.alicorn-v2-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Alicorn V2",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.almarai-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Almarai Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.als-lemon-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "ALS Lemon Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.amoled-anime-theme-ram-version-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "AMOLED anime theme (Ram version)",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.amoled-anime-theme-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "AMOLED anime theme",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.amoled-orange-mountains-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Amoled Orange Mountains",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.androgyne-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Androgyne Pride",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.android-lollipop-emojis": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Android Lollipop Emojis",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.android-pie-emojis": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Android Pie Emojis",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.animevision-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "AnimeVision",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.apple-emojis": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Apple Emojis",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.apple-hd-emojis": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Apple HD Emojis",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.apple-lq-emojis": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Apple Small Emojis",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.apple-pixel-emojis": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Apple Pixel Emojis",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.aromantic-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Aromantic Pride",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.asexual-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Asexual Pride",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.ataraxia-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Ataraxia",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
   "rosie.auto-quest": {
     "index_url": "https://val.is-your.app/",
     "name": "Auto Quest",
@@ -836,396 +770,6 @@
   "rosie.better-inbox": {
     "index_url": "https://val.is-your.app/",
     "name": "BetterInbox",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.bigender-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Bigender Pride",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.bisexual-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Bisexual Pride",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.blobmoji-emojis": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Blobmoji Emojis",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.blue-dino-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "𐌌 blue dino",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.blueven-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "BlueVen",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.blueyskies-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "BlueySkies",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.cabin-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Cabin Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catalyst-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catalyst",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-frapp-blue-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Frappé - Blue",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-frapp-flamingo-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Frappé - Flamingo",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-frapp-green-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Frappé - Green",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-frapp-lavender-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Frappé - Lavender",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-frapp-maroon-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Frappé - Maroon",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-frapp-mauve-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Frappé - Mauve",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-frapp-peach-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Frappé - Peach",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-frapp-pink-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Frappé - Pink",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-frapp-red-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Frappé - Red",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-frapp-rosewater-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Frappé - Rosewater",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-frapp-sapphire-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Frappé - Sapphire",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-frapp-sky-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Frappé - Sky",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-frapp-teal-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Frappé - Teal",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-frapp-yellow-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Frappé - Yellow",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-latte-blue-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Latte - Blue",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-latte-flamingo-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Latte - Flamingo",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-latte-green-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Latte - Green",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-latte-lavender-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Latte - Lavender",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-latte-maroon-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Latte - Maroon",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-latte-mauve-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Latte - Mauve",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-latte-peach-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Latte - Peach",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-latte-pink-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Latte - Pink",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-latte-red-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Latte - Red",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-latte-rosewater-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Latte - Rosewater",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-latte-sapphire-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Latte - Sapphire",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-latte-sky-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Latte - Sky",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-latte-teal-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Latte - Teal",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-latte-yellow-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Latte - Yellow",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-macchiato-blue-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Macchiato - Blue",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-macchiato-flamingo-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Macchiato - Flamingo",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-macchiato-green-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Macchiato - Green",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-macchiato-lavender-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Macchiato - Lavender",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-macchiato-maroon-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Macchiato - Maroon",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-macchiato-mauve-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Macchiato - Mauve",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-macchiato-peach-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Macchiato - Peach",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-macchiato-pink-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Macchiato - Pink",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-macchiato-red-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Macchiato - Red",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-macchiato-rosewater-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Macchiato - Rosewater",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-macchiato-sapphire-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Macchiato - Sapphire",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-macchiato-sky-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Macchiato - Sky",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-macchiato-teal-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Macchiato - Teal",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-macchiato-yellow-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Macchiato - Yellow",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-mocha-blue-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Mocha - Blue",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-mocha-flamingo-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Mocha - Flamingo",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-mocha-green-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Mocha - Green",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-mocha-lavender-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Mocha - Lavender",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-mocha-maroon-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Mocha - Maroon",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-mocha-mauve-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Mocha - Mauve",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-mocha-peach-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Mocha - Peach",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-mocha-pink-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Mocha - Pink",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-mocha-red-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Mocha - Red",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-mocha-rosewater-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Mocha - Rosewater",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-mocha-sapphire-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Mocha - Sapphire",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-mocha-sky-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Mocha - Sky",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-mocha-teal-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Mocha - Teal",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catppuccin-mocha-yellow-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catppuccin Mocha - Yellow",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.catty-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Catty",
     "source": "Rosie's Plugs",
     "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
   },
@@ -1247,30 +791,6 @@
     "source": "Rosie's Plugs",
     "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
   },
-  "rosie.choco-cooky-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Choco Cooky Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.cinder-flame-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Cinder & Flame",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.clearvision-v1-2-6-144-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "ClearVision v1.2.6",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.clearvision-v1-2-6-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "ClearVision v1.2.6",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
   "rosie.client-utils": {
     "index_url": "https://val.is-your.app/",
     "name": "Client Utils",
@@ -1289,183 +809,9 @@
     "source": "Rosie's Plugs",
     "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
   },
-  "rosie.coffee-theme-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Coffee ♨ Theme",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.comic-sans-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Comic Sans Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.cyberpunk-2077-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Cyberpunk 2077",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.cyberpunk-hud-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Cyberpunk HUD",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.dark-blossom-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Dark Blossom",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.dark-link-theme-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Dark Link Theme",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.dark-vendetta-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Dark Vendetta",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.darkened-acid-amoled-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Darkened Acid (AMOLED)",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.darkened-acid-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Darkened Acid",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.darkened-amethyst-amoled-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Darkened Amethyst (AMOLED)",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.darkened-amethyst-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Darkened Amethyst",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.darkened-barbie-amoled-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Darkened Barbie™ (AMOLED)",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.darkened-barbie-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Darkened Barbie™",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.darkened-basic-amoled-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Darkened Basic (AMOLED)",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.darkened-basic-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Darkened Basic",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.darkened-blood-amoled-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Darkened Blood (AMOLED)",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.darkened-blood-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Darkened Blood",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.darkened-blossom-amoled-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Darkened Blossom (AMOLED)",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.darkened-blossom-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Darkened Blossom",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.darkened-gold-amoled-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Darkened Gold (AMOLED)",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.darkened-gold-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Darkened Gold",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.darkened-ice-amoled-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Darkened Ice (AMOLED)",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.darkened-ice-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Darkened Ice",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
   "rosie.data-shield": {
     "index_url": "https://val.is-your.app/",
     "name": "DataShield",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.deep-waters-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Deep Waters",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.demiboy-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Demiboy Pride",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.demigirl-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Demigirl Pride",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.demisexual-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Demisexual Pride",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.discord-s-blurple-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Discord\\'s Blurple",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.dos-terminal-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Dos.Terminal",
     "source": "Rosie's Plugs",
     "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
   },
@@ -1475,129 +821,9 @@
     "source": "Rosie's Plugs",
     "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
   },
-  "rosie.emma-veil-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Emma Veil",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.emoji-packs": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Emoji Packs",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.emojidex-emojis": {
-    "index_url": "https://val.is-your.app/",
-    "name": "EmojiDex Emojis",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.evolve-sans-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Evolve Sans EVO Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.example-emojis": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Example Emojis",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.example-fonts": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Example Fonts",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.example-icons": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Example Icons",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.eye-candy-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Eye Candy",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.f1-legends-michael-schumacher-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "F1 Legends - Michael Schumacher",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.facebook-classic-emojis": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Facebook Classic Emojis",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.facebook-emojis": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Facebook Emojis",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.fade-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Fade",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.figtree-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Figtree Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
   "rosie.file-uploader": {
     "index_url": "https://val.is-your.app/",
     "name": "File Uploader",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.fira-code-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Fira Code Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.fluent-3d-emojis": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Fluent 3D Emojis",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.font-packs": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Font Packs",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.galaxy-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Galaxy",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.gantari-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Gantari Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.genderfluid-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Genderfluid Pride",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.genderqueer-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Genderqueer Pride",
     "source": "Rosie's Plugs",
     "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
   },
@@ -1607,111 +833,9 @@
     "source": "Rosie's Plugs",
     "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
   },
-  "rosie.glorious-sunset-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Glorious Sunset",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.golos-text-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Golos Text Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.google-sans-flex-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Google Sans Flex Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.google-sans-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Google Sans Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.gray-one-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Gray_one",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.graysexual-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Graysexual Pride",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.griffy-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Griffy Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.gruv-yellow-v3-3-4-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Gruv Yellow v3.3.4",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.gruvbackground-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Gruvbackground",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.harmonyos-emojis": {
-    "index_url": "https://val.is-your.app/",
-    "name": "HarmonyOS Emojis",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
   "rosie.hex-color": {
     "index_url": "https://val.is-your.app/",
     "name": "Hex Color",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.htc-sense-emojis": {
-    "index_url": "https://val.is-your.app/",
-    "name": "HTC Sense Emojis",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.ibm-plex-mono-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "IBM Plex Mono Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.icon-packs": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Icon Packs",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.iconamoon-icons": {
-    "index_url": "https://val.is-your.app/",
-    "name": "IconaMoon Icons",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.iconpark-outline-icons": {
-    "index_url": "https://val.is-your.app/",
-    "name": "IconPark Outline Icons",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.iconpark-solid-icons": {
-    "index_url": "https://val.is-your.app/",
-    "name": "IconPark Solid Icons",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.iconpark-two-tone-icons": {
-    "index_url": "https://val.is-your.app/",
-    "name": "IconPark Two Tone Icons",
     "source": "Rosie's Plugs",
     "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
   },
@@ -1721,111 +845,9 @@
     "source": "Rosie's Plugs",
     "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
   },
-  "rosie.instrument-sans-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Instrument Sans Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.inter-alia-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Inter Alia Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.intersex-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Intersex Pride",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.it-s-ourple-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "It\\'s Ourple!!",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.jetbrains-mono-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "JetBrains Mono Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.joypixels-emojis": {
-    "index_url": "https://val.is-your.app/",
-    "name": "JoyPixels Emojis",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.katana-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Katana",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.keyline-icons": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Keyline Icons",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.krimson-scarlet-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Krimson Scarlet",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.lesbian-sunset-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Lesbian Pride",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.lets-icons": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Lets Icons",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.lg-emojis": {
-    "index_url": "https://val.is-your.app/",
-    "name": "LG Emojis",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.light-blossom-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Light Blossom",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.lilypichu-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "LilyPichu",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.linotte-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Linotte Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
   "rosie.liquid-glass": {
     "index_url": "https://val.is-your.app/",
     "name": "Liquid Glass",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.liquid-glass-icons": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Liquid Glass Icons",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.liquid-glass-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Liquid Glass Theme",
     "source": "Rosie's Plugs",
     "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
   },
@@ -1835,45 +857,9 @@
     "source": "Rosie's Plugs",
     "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
   },
-  "rosie.maggie-s-purple-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Maggie\\'s Purple",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
   "rosie.markdown-toolbar": {
     "index_url": "https://val.is-your.app/",
     "name": "Markdown Toolbar",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.maroonskies-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "MaroonSkies",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.matchagreen-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "MatchaGreen",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.material-discord-mobile-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Material Discord Mobile",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.medium-slate-blue-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Medium Slate Blue",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.meloso-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Meloso Font",
     "source": "Rosie's Plugs",
     "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
   },
@@ -1883,231 +869,9 @@
     "source": "Rosie's Plugs",
     "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
   },
-  "rosie.metro-ui-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "MetroUI Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.midnight-espresso-plus-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Midnight-Espresso Plus",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.midnight-espresso-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Midnight-Espresso",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.midnight-plus-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Midnight Plus",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.midnight-vencord-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Midnight Vencord",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.mikhak-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Mikhak Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.minecraft-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Minecraft Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
   "rosie.more-alts": {
     "index_url": "https://val.is-your.app/",
     "name": "More Alts!",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.myna-ui-icons": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Myna UI Icons",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.neutrois-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Neutrois Pride",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.night-life-default-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Night Life (Default)",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.nightshade-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Nightshade",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.noctra-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Noctra",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.non-binary-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Non-Binary Pride",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.nord-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Nord",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.noto-3d-emojis": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Noto 3D Emojis",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.noto-emojis": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Noto Emojis",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.ocean-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Ocean",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.omnisexual-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Omnisexual Pride",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.onecolor-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "OneColor",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.oneui-emojis": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Samsung One UI Emojis",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.openmoji-emojis": {
-    "index_url": "https://val.is-your.app/",
-    "name": "OpenMoji Emojis",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.orange-mountains-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Orange Mountains",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.orangeoled-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "OrangeOLED",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.orchid-love-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Orchid Love",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.origins-blue-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Origins - Blue",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.origins-lemon-yellow-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Origins - Lemon Yellow",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.origins-rose-red-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Origins - Rose Red",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.p1x3ln1ghtz-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "p1x3ln1ghtz",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.pangender-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Pangender Pride",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.pansexual-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Pansexual Pride",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.papaya-rule-op81-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Papaya Rule - OP81",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.papyrus-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Papyrus Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.pastel-blue-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Pastel Blue",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.pebble-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Pebble",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.pixel-city-lite-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Pixel City Lite",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.pixel-city-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Pixel City",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.pixelarticons": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Pixelarticons",
     "source": "Rosie's Plugs",
     "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
   },
@@ -2117,189 +881,9 @@
     "source": "Rosie's Plugs",
     "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
   },
-  "rosie.plus-jakarta-sans-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Plus Jakarta Sans Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.polysexual-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Polysexual Pride",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.poppins-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Poppins Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.poppins-light-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Poppins Light Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.pride-rainbow-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Pride Rainbow",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.primrose-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Primrose",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.progress-pride-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Progress Pride",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.propo-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "JetBrains Mono Propo Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.puhbuamoledtest-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "puhbuAMOLEDTEST",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.pure-black-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Pure Black",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.purpamoled-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "PurpAMOLED",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.purpdark-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "PurpDark",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.purpdark-v3-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "PurpDark V3",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.purpl-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Purpl",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.purple-galaxy-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Purple Galaxy",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.purple-kitty-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Purple Kitty",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.purple-mountains-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Purple Mountains",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.purple-serenity-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Purple Serenity",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.purpleoled-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "PurpleOLED",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.pyontheme-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Pyontheme",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
   "rosie.quote": {
     "index_url": "https://val.is-your.app/",
     "name": "Quoter",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.rainforest-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "rainForest",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.ratio-v1-1-3-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Ratio v1.1.3",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.rbw-amoled-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "RBW AMOLED",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.red-cherries-theme-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Red Cherries 🍒 theme",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.red-feathers-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Red Feathers",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.rogue-6-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Rogue+",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.rogue-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Rogue",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.rose-pine-dawn-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Rose Pine Dawn",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.rose-pine-moon-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Rose Pine moon",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.rose-pine-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Rose Pine",
     "source": "Rosie's Plugs",
     "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
   },
@@ -2309,153 +893,15 @@
     "source": "Rosie's Plugs",
     "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
   },
-  "rosie.rosie-blue-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Rosie Blue",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.rosiedark-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "RosieDark",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.rosieskies-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "RosieSkies",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.rozequartz-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "RozeQuartz",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.s-mnum-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Sõmnum",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.sakura-tree-v1-2-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Sakura Tree v1.2",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.samsung-classic-emojis": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Samsung Classic Emojis",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.samsung-experience-emojis": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Samsung Experience Emojis",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.samsung-sans-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Samsung Sans Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.san-francisco-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "San Francisco Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.scarlet-love-v1-0-5-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Scarlet Love v1.0.5",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.sea-green-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Sea Green",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
   "rosie.server-info": {
     "index_url": "https://val.is-your.app/",
     "name": "Server Info",
     "source": "Rosie's Plugs",
     "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
   },
-  "rosie.sf-pro-display-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "SF Pro Display Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.sh-gen-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "諸元 [Shōgen]",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.silver-sliver-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Silver Sliver",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.snowy-rain-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Snowy Rain",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
   "rosie.split-messages": {
     "index_url": "https://val.is-your.app/",
     "name": "Split Messages",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.spyro-the-dragon-v3-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Spyro The Dragon v3",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.starborn-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Starborn Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.strawberry-cheesecake-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Strawberry Cheesecake",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.surdetta-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "surDetta",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.tachiyomi-lavender-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Tachiyomi Lavender",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.tesla-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Tesla Font",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.theeveningskies-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "TheEveningSkies",
     "source": "Rosie's Plugs",
     "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
   },
@@ -2477,51 +923,9 @@
     "source": "Rosie's Plugs",
     "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
   },
-  "rosie.tokyonight-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "TokyoNight",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.transgender-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Transgender Pride",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.twemoji-classic-emojis": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Twemoji Classic Emojis",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.twemoji-emojis": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Twemoji Emojis",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.two-spirit-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Two-Spirit Pride",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
   "rosie.typing-styles": {
     "index_url": "https://val.is-your.app/",
     "name": "Typing Styles",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.ukiyo-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Ukiyo",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.urbanist-font": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Urbanist Font",
     "source": "Rosie's Plugs",
     "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
   },
@@ -2531,33 +935,9 @@
     "source": "Rosie's Plugs",
     "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
   },
-  "rosie.vendetta-teal-v1-2-3-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Vendetta Teal v1.2.3",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
   "rosie.view-raw": {
     "index_url": "https://val.is-your.app/",
     "name": "ViewRaw",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.violetskies-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "VioletSkies",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.vision-pro-2-0-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Vision Pro 2.0",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.vision-pro-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Vision Pro",
     "source": "Rosie's Plugs",
     "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
   },
@@ -2567,99 +947,9 @@
     "source": "Rosie's Plugs",
     "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
   },
-  "rosie.vsmart-emojis": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Vsmart Emojis",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.vulcan-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Vulcan",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.wavy-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Wavy",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.wavypink-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "WavyPink",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.whatsapp-emojis": {
-    "index_url": "https://val.is-your.app/",
-    "name": "WhatsApp Emojis",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.whatsdetta-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Whatsdetta",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.windows-10-emojis": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Windows 10 Emojis",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.windows-11-emojis": {
-    "index_url": "https://val.is-your.app/",
-    "name": "Windows 11 Emojis",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
   "rosie.you-bar-plus": {
     "index_url": "https://val.is-your.app/",
     "name": "YouBar+",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.youblue-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "YouBlue",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.yougold-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "YouGold",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.yougray-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "YouGray",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.yougreen-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "YouGreen",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.youpink-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "YouPink",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.youpurple-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "YouPurple",
-    "source": "Rosie's Plugs",
-    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
-  },
-  "rosie.youred-theme": {
-    "index_url": "https://val.is-your.app/",
-    "name": "YouRed",
     "source": "Rosie's Plugs",
     "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
   },
@@ -2729,6 +1019,18 @@
     "source": "Freestyle",
     "source_url": "https://github.com/Yumistra/Freestyle-Valenced"
   },
+  "yumistra.better-channel-list": {
+    "index_url": "https://yumistra.github.io/Freestyle-Valenced",
+    "name": "Better Channel List",
+    "source": "Freestyle",
+    "source_url": "https://github.com/Yumistra/Freestyle-Valenced"
+  },
+  "yumistra.clean-emoji": {
+    "index_url": "https://yumistra.github.io/Freestyle-Valenced",
+    "name": "Clean Emoji",
+    "source": "Freestyle",
+    "source_url": "https://github.com/Yumistra/Freestyle-Valenced"
+  },
   "yumistra.custom-welcome": {
     "index_url": "https://yumistra.github.io/Freestyle-Valenced",
     "name": "Custom Welcome",
@@ -2762,6 +1064,12 @@
   "yumistra.overlay-background": {
     "index_url": "https://yumistra.github.io/Freestyle-Valenced",
     "name": "Overlay Background",
+    "source": "Freestyle",
+    "source_url": "https://github.com/Yumistra/Freestyle-Valenced"
+  },
+  "yumistra.reaction-words": {
+    "index_url": "https://yumistra.github.io/Freestyle-Valenced",
+    "name": "Reaction Words",
     "source": "Freestyle",
     "source_url": "https://github.com/Yumistra/Freestyle-Valenced"
   },
