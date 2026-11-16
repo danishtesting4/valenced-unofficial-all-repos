@@ -11,6 +11,12 @@
     "source": "Benjii",
     "source_url": "https://github.com/Accentaro/Valenced-Plugins"
   },
+  "benjii.dev.theme.everforest": {
+    "index_url": "https://plugins.benjiisworld.com/",
+    "name": "Everforest",
+    "source": "Benjii",
+    "source_url": "https://github.com/Accentaro/Valenced-Plugins"
+  },
   "benjii.dev.theme.frostfall": {
     "index_url": "https://plugins.benjiisworld.com/",
     "name": "Frostfall",
@@ -32,6 +38,12 @@
   "benjii.dev.theme.sakura": {
     "index_url": "https://plugins.benjiisworld.com/",
     "name": "Sakura",
+    "source": "Benjii",
+    "source_url": "https://github.com/Accentaro/Valenced-Plugins"
+  },
+  "benjii.dev.theme.tokyonight": {
+    "index_url": "https://plugins.benjiisworld.com/",
+    "name": "Tokyo Night",
     "source": "Benjii",
     "source_url": "https://github.com/Accentaro/Valenced-Plugins"
   },
@@ -113,6 +125,12 @@
     "source": "Bazinga",
     "source_url": "https://github.com/bleelblep/bleel-bazinga-repo"
   },
+  "bleelblep.relationship-notifier": {
+    "index_url": "https://bleelblep.github.io/bleel-bazinga-repo/index.json",
+    "name": "Relationship Notifier",
+    "source": "Bazinga",
+    "source_url": "https://github.com/bleelblep/bleel-bazinga-repo"
+  },
   "bleelblep.review-db": {
     "index_url": "https://bleelblep.github.io/bleel-bazinga-repo/index.json",
     "name": "ReviewDB",
@@ -125,6 +143,12 @@
     "source": "Bazinga",
     "source_url": "https://github.com/bleelblep/bleel-bazinga-repo"
   },
+  "bleelblep.screenshot-redactor": {
+    "index_url": "https://bleelblep.github.io/bleel-bazinga-repo/index.json",
+    "name": "Screenshot Redactor",
+    "source": "Bazinga",
+    "source_url": "https://github.com/bleelblep/bleel-bazinga-repo"
+  },
   "bleelblep.send-tweaks": {
     "index_url": "https://bleelblep.github.io/bleel-bazinga-repo/index.json",
     "name": "Send Tweaks",
@@ -134,6 +158,12 @@
   "bleelblep.sharp-corners": {
     "index_url": "https://bleelblep.github.io/bleel-bazinga-repo/index.json",
     "name": "Sharp Corners",
+    "source": "Bazinga",
+    "source_url": "https://github.com/bleelblep/bleel-bazinga-repo"
+  },
+  "bleelblep.show-tag": {
+    "index_url": "https://bleelblep.github.io/bleel-bazinga-repo/index.json",
+    "name": "Show Tag",
     "source": "Bazinga",
     "source_url": "https://github.com/bleelblep/bleel-bazinga-repo"
   },
@@ -179,6 +209,12 @@
     "source": "Mudrhiod",
     "source_url": "https://github.com/mudrhiod/valenced-plugins"
   },
+  "com.otkusteyler.capri-pet": {
+    "index_url": "https://otkusteyler.github.io/chocos-plugins/",
+    "name": "Capri Pet",
+    "source": "Choco",
+    "source_url": "https://github.com/OTKUSteyler/chocos-plugins"
+  },
   "com.otkusteyler.gifroulette": {
     "index_url": "https://otkusteyler.github.io/chocos-plugins/",
     "name": "GIF Roulette",
@@ -209,6 +245,12 @@
     "source": "Choco",
     "source_url": "https://github.com/OTKUSteyler/chocos-plugins"
   },
+  "dev.benjii.better-chatbox": {
+    "index_url": "https://plugins.benjiisworld.com/",
+    "name": "Better Chatbox",
+    "source": "Benjii",
+    "source_url": "https://github.com/Accentaro/Valenced-Plugins"
+  },
   "dev.benjii.better-you-bar": {
     "index_url": "https://plugins.benjiisworld.com/",
     "name": "Better You Bar",
@@ -233,9 +275,9 @@
     "source": "Benjii",
     "source_url": "https://github.com/Accentaro/Valenced-Plugins"
   },
-  "dev.benjii.feeds-page": {
+  "dev.benjii.gif-categories": {
     "index_url": "https://plugins.benjiisworld.com/",
-    "name": "Feeds Page",
+    "name": "GIF Categories",
     "source": "Benjii",
     "source_url": "https://github.com/Accentaro/Valenced-Plugins"
   },
@@ -260,6 +302,12 @@
   "dev.benjii.quoter": {
     "index_url": "https://plugins.benjiisworld.com/",
     "name": "Quoter",
+    "source": "Benjii",
+    "source_url": "https://github.com/Accentaro/Valenced-Plugins"
+  },
+  "dev.benjii.screenshot-scrambler": {
+    "index_url": "https://plugins.benjiisworld.com/",
+    "name": "Screenshot Scrambler",
     "source": "Benjii",
     "source_url": "https://github.com/Accentaro/Valenced-Plugins"
   },
@@ -305,11 +353,23 @@
     "source": "dxckie",
     "source_url": "https://github.com/dxckie-cell/valenced-plugins"
   },
+  "dxckie.bio-emoji-button": {
+    "index_url": "https://dxckie-cell.github.io/valenced-plugins",
+    "name": "Bio Emoji Button",
+    "source": "dxckie",
+    "source_url": "https://github.com/dxckie-cell/valenced-plugins"
+  },
   "dxckie.bio-emoji-context": {
     "index_url": "https://dxckie-cell.github.io/valenced-plugins",
     "name": "BioEmojiContext",
     "source": "dxckie",
     "source_url": "https://github.com/dxckie-cell/valenced-plugins"
+  },
+  "dxckie.capri-pet": {
+    "index_url": "https://otkusteyler.github.io/chocos-plugins/",
+    "name": "Capri Pet",
+    "source": "Choco",
+    "source_url": "https://github.com/OTKUSteyler/chocos-plugins"
   },
   "dxckie.clyde-editor": {
     "index_url": "https://dxckie-cell.github.io/valenced-plugins",
@@ -329,6 +389,12 @@
     "source": "dxckie",
     "source_url": "https://github.com/dxckie-cell/valenced-plugins"
   },
+  "dxckie.giphy-gif-fix": {
+    "index_url": "https://dxckie-cell.github.io/valenced-plugins",
+    "name": "Giphy Gif Fix",
+    "source": "dxckie",
+    "source_url": "https://github.com/dxckie-cell/valenced-plugins"
+  },
   "dxckie.hide-messages": {
     "index_url": "https://dxckie-cell.github.io/valenced-plugins",
     "name": "HideMessages",
@@ -341,15 +407,27 @@
     "source": "dxckie",
     "source_url": "https://github.com/dxckie-cell/valenced-plugins"
   },
+  "dxckie.klipy-gif-fix": {
+    "index_url": "https://dxckie-cell.github.io/valenced-plugins",
+    "name": "Klipy Gif Fix",
+    "source": "dxckie",
+    "source_url": "https://github.com/dxckie-cell/valenced-plugins"
+  },
   "dxckie.local-pins": {
     "index_url": "https://dxckie-cell.github.io/valenced-plugins",
     "name": "Local Pins",
     "source": "dxckie",
     "source_url": "https://github.com/dxckie-cell/valenced-plugins"
   },
-  "dxckie.no-compression": {
+  "dxckie.no-mosaic": {
     "index_url": "https://dxckie-cell.github.io/valenced-plugins",
-    "name": "No Compression",
+    "name": "NoMosaic",
+    "source": "dxckie",
+    "source_url": "https://github.com/dxckie-cell/valenced-plugins"
+  },
+  "dxckie.no-mosaic-diagnostic": {
+    "index_url": "https://dxckie-cell.github.io/valenced-plugins",
+    "name": "NoMosaic Diagnostic",
     "source": "dxckie",
     "source_url": "https://github.com/dxckie-cell/valenced-plugins"
   },
@@ -368,6 +446,12 @@
   "dxckie.override-user-banners": {
     "index_url": "https://dxckie-cell.github.io/valenced-plugins",
     "name": "Override User Banners",
+    "source": "dxckie",
+    "source_url": "https://github.com/dxckie-cell/valenced-plugins"
+  },
+  "dxckie.pastelize": {
+    "index_url": "https://dxckie-cell.github.io/valenced-plugins",
+    "name": "Pastelize",
     "source": "dxckie",
     "source_url": "https://github.com/dxckie-cell/valenced-plugins"
   },
@@ -392,6 +476,12 @@
   "dxckie.spotify-preview": {
     "index_url": "https://dxckie-cell.github.io/valenced-plugins",
     "name": "Spotify Preview",
+    "source": "dxckie",
+    "source_url": "https://github.com/dxckie-cell/valenced-plugins"
+  },
+  "dxckie.theme.periwinkle": {
+    "index_url": "https://dxckie-cell.github.io/valenced-plugins",
+    "name": "Periwinkle",
     "source": "dxckie",
     "source_url": "https://github.com/dxckie-cell/valenced-plugins"
   },
@@ -428,6 +518,12 @@
   "k1ngop.profile-replies": {
     "index_url": "https://k1ng0p.github.io/Valenced-Plugins-by-k1ng0p/",
     "name": "Profile Replies",
+    "source": "k1ng0p",
+    "source_url": "https://github.com/k1ng0p/Valenced-Plugins-by-k1ng0p"
+  },
+  "k1ngop.user-voice-show": {
+    "index_url": "https://k1ng0p.github.io/Valenced-Plugins-by-k1ng0p/",
+    "name": "User Voice Show",
     "source": "k1ng0p",
     "source_url": "https://github.com/k1ng0p/Valenced-Plugins-by-k1ng0p"
   },
@@ -515,6 +611,12 @@
     "source": "EskimoPlugins",
     "source_url": "https://github.com/MarkLong0467/EskimoPlugins"
   },
+  "marklong.channel-tabs": {
+    "index_url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/index.json",
+    "name": "Channel Tabs",
+    "source": "EskimoPlugins",
+    "source_url": "https://github.com/MarkLong0467/EskimoPlugins"
+  },
   "marklong.chatbox-avatar": {
     "index_url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/index.json",
     "name": "Chatbox Avatar",
@@ -575,6 +677,18 @@
     "source": "EskimoPlugins",
     "source_url": "https://github.com/MarkLong0467/EskimoPlugins"
   },
+  "marklong.i-remember-you": {
+    "index_url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/index.json",
+    "name": "I Remember You",
+    "source": "EskimoPlugins",
+    "source_url": "https://github.com/MarkLong0467/EskimoPlugins"
+  },
+  "marklong.liquid-glass": {
+    "index_url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/index.json",
+    "name": "Liquid Glass",
+    "source": "EskimoPlugins",
+    "source_url": "https://github.com/MarkLong0467/EskimoPlugins"
+  },
   "marklong.markdown-toolbar": {
     "index_url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/index.json",
     "name": "Markdown Toolbar",
@@ -611,6 +725,12 @@
     "source": "EskimoPlugins",
     "source_url": "https://github.com/MarkLong0467/EskimoPlugins"
   },
+  "marklong.pastelize": {
+    "index_url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/index.json",
+    "name": "Pastelize",
+    "source": "EskimoPlugins",
+    "source_url": "https://github.com/MarkLong0467/EskimoPlugins"
+  },
   "marklong.pin-dms": {
     "index_url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/index.json",
     "name": "Pin DMs",
@@ -632,6 +752,12 @@
   "marklong.repo-post": {
     "index_url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/index.json",
     "name": "Repo Post",
+    "source": "EskimoPlugins",
+    "source_url": "https://github.com/MarkLong0467/EskimoPlugins"
+  },
+  "marklong.reverse-image-search": {
+    "index_url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/index.json",
+    "name": "Reverse Image Search",
     "source": "EskimoPlugins",
     "source_url": "https://github.com/MarkLong0467/EskimoPlugins"
   },
@@ -704,6 +830,12 @@
   "marklong.valid-user": {
     "index_url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/index.json",
     "name": "Valid User",
+    "source": "EskimoPlugins",
+    "source_url": "https://github.com/MarkLong0467/EskimoPlugins"
+  },
+  "marklong.webhook-builder": {
+    "index_url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/index.json",
+    "name": "Webhook Builder",
     "source": "EskimoPlugins",
     "source_url": "https://github.com/MarkLong0467/EskimoPlugins"
   },
@@ -875,6 +1007,12 @@
     "source": "Rosie's Plugs",
     "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
   },
+  "rosie.pastelize": {
+    "index_url": "https://val.is-your.app/",
+    "name": "Pastelize",
+    "source": "Rosie's Plugs",
+    "source_url": "https://code.is-your.app/SheWhoReignsSupreme/valenced-plugins"
+  },
   "rosie.plugin-browser": {
     "index_url": "https://val.is-your.app/",
     "name": "Plugin Browser",
@@ -959,9 +1097,27 @@
     "source": "Wolf Plugins",
     "source_url": "https://github.com/WolfPlugs/valenced-plugins"
   },
+  "wolfie.better-devices": {
+    "index_url": "https://plugins.obamabot.me/valenced-plugins",
+    "name": "Better Devices",
+    "source": "Wolf Plugins",
+    "source_url": "https://github.com/WolfPlugs/valenced-plugins"
+  },
+  "wolfie.better-inbox": {
+    "index_url": "https://plugins.obamabot.me/valenced-plugins",
+    "name": "BetterInbox",
+    "source": "Wolf Plugins",
+    "source_url": "https://github.com/WolfPlugs/valenced-plugins"
+  },
   "wolfie.bot-client": {
     "index_url": "https://plugins.obamabot.me/valenced-plugins",
     "name": "Bot Client",
+    "source": "Wolf Plugins",
+    "source_url": "https://github.com/WolfPlugs/valenced-plugins"
+  },
+  "wolfie.chat-ragdoll": {
+    "index_url": "https://plugins.obamabot.me/valenced-plugins",
+    "name": "Chat Ragdoll",
     "source": "Wolf Plugins",
     "source_url": "https://github.com/WolfPlugs/valenced-plugins"
   },
@@ -983,6 +1139,12 @@
     "source": "Wolf Plugins",
     "source_url": "https://github.com/WolfPlugs/valenced-plugins"
   },
+  "wolfie.more-alts": {
+    "index_url": "https://plugins.obamabot.me/valenced-plugins",
+    "name": "More Alts!",
+    "source": "Wolf Plugins",
+    "source_url": "https://github.com/WolfPlugs/valenced-plugins"
+  },
   "wolfie.nsfw-blur": {
     "index_url": "https://plugins.obamabot.me/valenced-plugins",
     "name": "NSFW Blur",
@@ -998,6 +1160,12 @@
   "wolfie.questify": {
     "index_url": "https://plugins.obamabot.me/valenced-plugins",
     "name": "Questify",
+    "source": "Wolf Plugins",
+    "source_url": "https://github.com/WolfPlugs/valenced-plugins"
+  },
+  "wolfie.server-info": {
+    "index_url": "https://plugins.obamabot.me/valenced-plugins",
+    "name": "Server Info",
     "source": "Wolf Plugins",
     "source_url": "https://github.com/WolfPlugs/valenced-plugins"
   },
@@ -1031,6 +1199,12 @@
     "source": "Freestyle",
     "source_url": "https://github.com/Yumistra/Freestyle-Valenced"
   },
+  "yumistra.commands": {
+    "index_url": "https://yumistra.github.io/Freestyle-Valenced",
+    "name": "Commands",
+    "source": "Freestyle",
+    "source_url": "https://github.com/Yumistra/Freestyle-Valenced"
+  },
   "yumistra.custom-welcome": {
     "index_url": "https://yumistra.github.io/Freestyle-Valenced",
     "name": "Custom Welcome",
@@ -1055,6 +1229,12 @@
     "source": "Freestyle",
     "source_url": "https://github.com/Yumistra/Freestyle-Valenced"
   },
+  "yumistra.mini-chat": {
+    "index_url": "https://yumistra.github.io/Freestyle-Valenced",
+    "name": "Mini Chat",
+    "source": "Freestyle",
+    "source_url": "https://github.com/Yumistra/Freestyle-Valenced"
+  },
   "yumistra.multi-rpc": {
     "index_url": "https://yumistra.github.io/Freestyle-Valenced",
     "name": "Multi RPC",
@@ -1069,13 +1249,19 @@
   },
   "yumistra.reaction-words": {
     "index_url": "https://yumistra.github.io/Freestyle-Valenced",
-    "name": "Reaction Words",
+    "name": "Reaction+",
     "source": "Freestyle",
     "source_url": "https://github.com/Yumistra/Freestyle-Valenced"
   },
   "yumistra.silent-leave": {
     "index_url": "https://yumistra.github.io/Freestyle-Valenced",
     "name": "Silent Leave",
+    "source": "Freestyle",
+    "source_url": "https://github.com/Yumistra/Freestyle-Valenced"
+  },
+  "yumistra.silent-mentions": {
+    "index_url": "https://yumistra.github.io/Freestyle-Valenced",
+    "name": "Silent Mentions",
     "source": "Freestyle",
     "source_url": "https://github.com/Yumistra/Freestyle-Valenced"
   },
@@ -1088,6 +1274,12 @@
   "yumistra.sticker-with-text": {
     "index_url": "https://yumistra.github.io/Freestyle-Valenced",
     "name": "Sticker With Text",
+    "source": "Freestyle",
+    "source_url": "https://github.com/Yumistra/Freestyle-Valenced"
+  },
+  "yumistra.voice-overlay": {
+    "index_url": "https://yumistra.github.io/Freestyle-Valenced",
+    "name": "Voice Overlay",
     "source": "Freestyle",
     "source_url": "https://github.com/Yumistra/Freestyle-Valenced"
   }

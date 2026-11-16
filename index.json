@@ -6,7 +6,7 @@
     "benjii.dev.theme.catppuccin": {
       "author": "Benjii <463702169443368970>",
       "channels": {
-        "latest": "1.2.1"
+        "latest": "1.3.2"
       },
       "description": "The Catppuccin pastel palette in all four flavours (Latte, Frappé, Macchiato and Mocha), each with all 14 accent colours.",
       "name": "Catppuccin",
@@ -58,13 +58,61 @@
           "sha256": "bbb52547cdfaa939a6861ee27d6ca70384532e3f69113dc49e80ab5f163790b4",
           "size": 28813,
           "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.catppuccin@1.2.1.zip"
+        },
+        "1.3.0": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "c0179f1cf11d6ddb283f5b4fe215230d1f46a1b979dcca3db990984902b0b920",
+          "size": 28929,
+          "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.catppuccin@1.3.0.zip"
+        },
+        "1.3.1": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "fc68e420725e9aeec98f30334332e98c3c6341c36cce59c1f84a6a51b4da5e99",
+          "size": 29916,
+          "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.catppuccin@1.3.1.zip"
+        },
+        "1.3.2": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "78700302ab8fb772cf7f4e633747d67d72d5f8f0d1da16cb27120ca6e1180f83",
+          "size": 30113,
+          "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.catppuccin@1.3.2.zip"
         }
       }
     },
     "benjii.dev.theme.celestia": {
       "author": "Benjii <463702169443368970>",
       "channels": {
-        "latest": "1.1.4"
+        "latest": "1.1.7"
       },
       "description": "Plum and coral, over an anime sunset beneath a ringed planet.",
       "name": "Celestia",
@@ -148,13 +196,103 @@
           "sha256": "b960a5a5e82156594fbe921e38167ea6306f0cd95c7283bf627705f5c407d771",
           "size": 193252,
           "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.celestia@1.1.4.zip"
+        },
+        "1.1.5": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "75b556d75ef25ed7512aecaf91b21d8a946d7e753ecfbafb600946adbec59d4c",
+          "size": 193337,
+          "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.celestia@1.1.5.zip"
+        },
+        "1.1.6": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "14ad18166543b18eae1b70e9a720976709914746f32ac629975137f166ab61d9",
+          "size": 194418,
+          "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.celestia@1.1.6.zip"
+        },
+        "1.1.7": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "d0ca95caa8cc661b55ff67991fa82d3e6b8b76c103f4a103794405099b33eec4",
+          "size": 194757,
+          "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.celestia@1.1.7.zip"
+        }
+      }
+    },
+    "benjii.dev.theme.everforest": {
+      "author": "Benjii <463702169443368970>",
+      "channels": {
+        "latest": "1.0.1"
+      },
+      "description": "Warm forest greens on soft dark or parchment backgrounds, in hard, medium and soft contrast.",
+      "name": "Everforest",
+      "versions": {
+        "1.0.0": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "f0cc42c6dabcdf45693d5f1f94e1ecbc18c26524395cf0cdbe72cde016eb3eb2",
+          "size": 52104,
+          "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.everforest@1.0.0.zip"
+        },
+        "1.0.1": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "3dce2c83b46bd13a03556196a2d199916ab9e3e79b66c51c2fb7348b759b46f1",
+          "size": 52284,
+          "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.everforest@1.0.1.zip"
         }
       }
     },
     "benjii.dev.theme.frostfall": {
       "author": "Benjii <463702169443368970>",
       "channels": {
-        "latest": "1.1.4"
+        "latest": "1.1.7"
       },
       "description": "Midnight snowfall: near-black surfaces with frosted white accents, over a falling-snow background.",
       "name": "Frostfall",
@@ -238,13 +376,61 @@
           "sha256": "e719f1c5e66547e7575d9d02a202fe28cc75c0e30373572b98a6a031681b2f3c",
           "size": 248789,
           "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.frostfall@1.1.4.zip"
+        },
+        "1.1.5": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "7a5a6c0caafe39d35340e67ce2bb60d1ec0a56333a08f9b3338061f2550ab602",
+          "size": 248874,
+          "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.frostfall@1.1.5.zip"
+        },
+        "1.1.6": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "031d443833be8dd63559086917f0999699a7fd91c6daddc1647ed378b2d653fe",
+          "size": 249958,
+          "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.frostfall@1.1.6.zip"
+        },
+        "1.1.7": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "973efd16abd933343aa5cb60006f60afef3ed444018e9d12ce37930854805cd5",
+          "size": 250295,
+          "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.frostfall@1.1.7.zip"
         }
       }
     },
     "benjii.dev.theme.nocturne": {
       "author": "Benjii <463702169443368970>",
       "channels": {
-        "latest": "1.1.4"
+        "latest": "1.1.7"
       },
       "description": "Navy and rain-lit cyan, over an anime night of blue rain beneath a crescent moon.",
       "name": "Nocturne",
@@ -328,13 +514,61 @@
           "sha256": "a139d461a410ec321c3d4bed44669db0f87e162be99a9808de585a727b87ea8f",
           "size": 133432,
           "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.nocturne@1.1.4.zip"
+        },
+        "1.1.5": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "f3a606463d2794f45b0cd57ab9b5581f0ed86d6bbe671216e0785f7fe4340061",
+          "size": 133517,
+          "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.nocturne@1.1.5.zip"
+        },
+        "1.1.6": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "b9f6786cafba68bc615e2fdaefa58b465f5ab3119989857d6a90c2ce27c615fa",
+          "size": 134601,
+          "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.nocturne@1.1.6.zip"
+        },
+        "1.1.7": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "619c4f5a69b99946717f37fbca363f298970c73b96c93857e3a7661221dccba0",
+          "size": 134939,
+          "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.nocturne@1.1.7.zip"
         }
       }
     },
     "benjii.dev.theme.obsidian": {
       "author": "Benjii <463702169443368970>",
       "channels": {
-        "latest": "1.1.1"
+        "latest": "1.1.7"
       },
       "description": "Pure black for OLED screens, with hairline borders and quiet silver accents.",
       "name": "Obsidian",
@@ -370,13 +604,109 @@
           "sha256": "bca16f2b11230299991efb018977f284fe0c0dbc7deb49ad98e57cbe15cf42b9",
           "size": 26812,
           "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.obsidian@1.1.1.zip"
+        },
+        "1.1.2": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "d6dd95c43140b0a5af3eb37a9d8027b5f717f54417f51d0c139bcea5c18eef85",
+          "size": 26850,
+          "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.obsidian@1.1.2.zip"
+        },
+        "1.1.3": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "3617afc621cc4b187ff3e55a6680da199dca18d5f2369f70486c3148aaf08d42",
+          "size": 26877,
+          "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.obsidian@1.1.3.zip"
+        },
+        "1.1.4": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "93bf28eea9bef6907de509ad544911f8fa90142d8f2a442d071c07d069187c9d",
+          "size": 26947,
+          "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.obsidian@1.1.4.zip"
+        },
+        "1.1.5": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "1af8a362f3b506660d2d92223c508c725e334ae0ab86bf092d171bf1f8f59ede",
+          "size": 26968,
+          "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.obsidian@1.1.5.zip"
+        },
+        "1.1.6": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "0303780df65071c819a7e0542da6724ee2d54e6a2379cc196f20f44cdb1419f0",
+          "size": 27905,
+          "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.obsidian@1.1.6.zip"
+        },
+        "1.1.7": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "8ca3433ab7c695df82bdfb9b485efe994252e63d0bd2cbcdfd82a6bb1b93f0cd",
+          "size": 28242,
+          "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.obsidian@1.1.7.zip"
         }
       }
     },
     "benjii.dev.theme.sakura": {
       "author": "Benjii <463702169443368970>",
       "channels": {
-        "latest": "1.1.4"
+        "latest": "1.1.7"
       },
       "description": "A cozy, calm anime theme: cream manga paper, ink lines and sakura pastels, with a soft night version.",
       "name": "Sakura",
@@ -460,6 +790,96 @@
           "sha256": "d13aff168ff39c80286c4f534f6f47f3b5a84fdc62b997fea2e079170de57441",
           "size": 355919,
           "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.sakura@1.1.4.zip"
+        },
+        "1.1.5": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "e275bb434a41bd03014fed2d7c34339738f7c96c980a11f125185e4bbfb33da4",
+          "size": 356005,
+          "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.sakura@1.1.5.zip"
+        },
+        "1.1.6": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "d1fc7eaf9dfd4ccb473a8d52ce5867d3a008ac427b5a58a37143fad9996ff5b3",
+          "size": 357086,
+          "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.sakura@1.1.6.zip"
+        },
+        "1.1.7": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "b8ada5338960f4fe643937209f6999f81e593e9887fd35bcd7088c025b5ac77b",
+          "size": 357425,
+          "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.sakura@1.1.7.zip"
+        }
+      }
+    },
+    "benjii.dev.theme.tokyonight": {
+      "author": "Benjii <463702169443368970>",
+      "channels": {
+        "latest": "1.0.1"
+      },
+      "description": "Deep navy, electric blue and soft magenta, in the Night, Storm, Moon and Day variants.",
+      "name": "Tokyo Night",
+      "versions": {
+        "1.0.0": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "23382711755c6899e9b171f2406d0908b357206d53096d77b9e477fa6a2d34ed",
+          "size": 66303,
+          "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.tokyonight@1.0.0.zip"
+        },
+        "1.0.1": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "93f604456dba4223efd4187b723f4d3db57f3a24c42a702dadf8b53761f04922",
+          "size": 66483,
+          "url": "https://plugins.benjiisworld.com/pool/benjii.dev.theme.tokyonight@1.0.1.zip"
         }
       }
     },
@@ -565,7 +985,7 @@
     "bleelblep.ghost-log-ng": {
       "author": "bleelblep",
       "channels": {
-        "latest": "0.3.1"
+        "latest": "0.4.3"
       },
       "description": "Ground-up Ghost Log rewrite: encrypted deleted-message log, edit history and saved media.",
       "icon": "TrashIcon",
@@ -583,6 +1003,19 @@
           "sha256": "1cdf5b1d1258691686188e59f46ae2400a10452faecb76a8d76a057a6ae76e94",
           "size": 184427,
           "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.ghost-log-ng@0.3.1.zip"
+        },
+        "0.4.3": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "08c356299b1a876c2b2d4830571b64fd87601604405eef60c0503b41d87defcc",
+          "size": 196133,
+          "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.ghost-log-ng@0.4.3.zip"
         }
       }
     },
@@ -629,7 +1062,7 @@
     "bleelblep.hide-servers-drawer": {
       "author": "bleelblep, blerp",
       "channels": {
-        "latest": "1.8.12"
+        "latest": "1.8.14"
       },
       "description": "Hide servers, folders or channels from your lists, only on your device.",
       "icon": "EyeSlashIcon",
@@ -673,6 +1106,32 @@
           "sha256": "2aade84398aa45a0c22ce1d97cab48fd8f1d5ecbd6114156e1e339eacb6b5bb2",
           "size": 21882,
           "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.hide-servers-drawer@1.8.12.zip"
+        },
+        "1.8.13": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "275b78b17d7c740113baa6844a56a4ec2470fb9acfaeb8c846a2a13e14558a6b",
+          "size": 22046,
+          "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.hide-servers-drawer@1.8.13.zip"
+        },
+        "1.8.14": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "d86bb1f244d97010e3b5d381e52e999516368e1dbfe9bc80df5871af1359cb38",
+          "size": 22278,
+          "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.hide-servers-drawer@1.8.14.zip"
         },
         "1.8.2": {
           "dependencies": {
@@ -718,7 +1177,7 @@
     "bleelblep.live-markdown": {
       "author": "bleelblep",
       "channels": {
-        "latest": "0.3.1"
+        "latest": "0.3.2"
       },
       "description": "Shows bold, italics, code, spoilers and more styled as you type a message.",
       "icon": "TextIcon",
@@ -749,13 +1208,26 @@
           "sha256": "f097814d902443ef474fa5d59595ec344ece6c83e8b5a7fcfe6ae7ca7c184387",
           "size": 33499,
           "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.live-markdown@0.3.1.zip"
+        },
+        "0.3.2": {
+          "dependencies": {
+            "discord": {
+              "version": ">=350.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "c5833c47e21d2b089ad3140bbdd0000707392c1f2a9ab6f41e87d83188ea06fa",
+          "size": 33779,
+          "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.live-markdown@0.3.2.zip"
         }
       }
     },
     "bleelblep.multi-scrobbler": {
       "author": "kmmiio99o, bleelblep",
       "channels": {
-        "latest": "1.3.13"
+        "latest": "1.4.0"
       },
       "description": "Shows what you're playing as your Discord status: from Last.fm, Libre.fm, ListenBrainz, or this phone's music player through the Music Bridge app.",
       "icon": "MusicIcon",
@@ -799,6 +1271,19 @@
           "sha256": "f8f70c3f77d3f814457a75127be41158a3ae8f3fb673807eac02d9d1a5881c25",
           "size": 32318,
           "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.multi-scrobbler@1.3.13.zip"
+        },
+        "1.4.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "9e168ae4ff38e595259e160dacd96881a03c63d5c41219632d4314fbe258347d",
+          "size": 32092,
+          "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.multi-scrobbler@1.4.0.zip"
         }
       }
     },
@@ -879,12 +1364,38 @@
     "bleelblep.picture-links": {
       "author": "bleelblep",
       "channels": {
-        "latest": "0.1.8"
+        "latest": "0.1.15"
       },
-      "description": "Tap profile pictures and banners to view them full size, with save and share.",
+      "description": "Tap profile pictures, banners and server icons to view them full size, with save and share.",
       "icon": "ImageIcon",
       "name": "Picture Links",
       "versions": {
+        "0.1.14": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "62c9882f3a0769695174a70a581d4a6323e947ac63c9fdde6c40c218f1280f89",
+          "size": 6972,
+          "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.picture-links@0.1.14.zip"
+        },
+        "0.1.15": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "c1f06a165fda7f5d40c46637e330080e4f9a989c22089e525930a11f50665518",
+          "size": 7416,
+          "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.picture-links@0.1.15.zip"
+        },
         "0.1.8": {
           "dependencies": {
             "discord": {
@@ -931,7 +1442,7 @@
     "bleelblep.pocket-browser": {
       "author": "bleelblep",
       "channels": {
-        "latest": "0.4.16"
+        "latest": "0.4.17"
       },
       "description": "A web browser with tabs and history in a new tab of the emoji picker.",
       "icon": "GlobeEarthIcon",
@@ -962,6 +1473,19 @@
           "sha256": "00f8ac9e1f4b2da31b4c58af3219ab244a4bd1ee25738a5c881fd189c8deca96",
           "size": 166985,
           "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.pocket-browser@0.4.16.zip"
+        },
+        "0.4.17": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "a0e442095d6bb29790089e85eb8bd78344e6169a42b905c56e5277a921b4015c",
+          "size": 167226,
+          "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.pocket-browser@0.4.17.zip"
         }
       }
     },
@@ -1025,6 +1549,43 @@
           "sha256": "ddef8ca162ad9bfb9f2ee1486351908f2d7af56d692e371920e8f75297fad475",
           "size": 22796,
           "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.pronouns@1.0.9.zip"
+        }
+      }
+    },
+    "bleelblep.relationship-notifier": {
+      "author": "bleelblep",
+      "channels": {
+        "latest": "2.2.0"
+      },
+      "description": "Tells you about lost and new friends, lost servers and group DMs, and friends' new names and avatars.",
+      "icon": "UserMinusIcon",
+      "name": "Relationship Notifier",
+      "versions": {
+        "2.1.1": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "09cdb7d6becb218ed9bfd20d8dea9ae7a881e35aa1973d5780f3c708a0efe55b",
+          "size": 12157,
+          "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.relationship-notifier@2.1.1.zip"
+        },
+        "2.2.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "8a4ee56c162f760fb3c21390446cb09a14b37f33aa792259039e1c7d32dca417",
+          "size": 13026,
+          "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.relationship-notifier@2.2.0.zip"
         }
       }
     },
@@ -1107,7 +1668,7 @@
     "bleelblep.round-icons": {
       "author": "bleelblep",
       "channels": {
-        "latest": "1.3.22"
+        "latest": "1.3.23"
       },
       "description": "Undoes the redesign's squares: round servers, round buttons, a pill You bar.",
       "icon": "AppsIcon",
@@ -1152,6 +1713,19 @@
           "size": 10889,
           "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.round-icons@1.3.22.zip"
         },
+        "1.3.23": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "45c0869fb894024d7285d5a4aacf52d64444a3f41ea10336e0c8e57c33bbe62e",
+          "size": 11258,
+          "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.round-icons@1.3.23.zip"
+        },
         "1.3.7": {
           "dependencies": {
             "discord": {
@@ -1180,10 +1754,34 @@
         }
       }
     },
+    "bleelblep.screenshot-redactor": {
+      "author": "bleelblep",
+      "channels": {
+        "latest": "0.27.17"
+      },
+      "description": "Swaps names, avatars and personal details for placeholders so chats are safe to screenshot.",
+      "icon": "EyeSlashIcon",
+      "name": "Screenshot Redactor",
+      "versions": {
+        "0.27.17": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "d46b0fd2cb6e847603ff15811102e7687903e0661b3e64306703188da7d8a2ee",
+          "size": 18660,
+          "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.screenshot-redactor@0.27.17.zip"
+        }
+      }
+    },
     "bleelblep.send-tweaks": {
       "author": "bleelblep, Rosie, WarFade",
       "channels": {
-        "latest": "1.1.7"
+        "latest": "1.1.10"
       },
       "description": "Cleans links, polishes wording, applies your own find-and-replace rules and gives you a few seconds to undo a send.",
       "icon": "SendMessageIcon",
@@ -1240,6 +1838,23 @@
           "size": 50691,
           "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.send-tweaks@1.0.16.zip"
         },
+        "1.1.10": {
+          "dependencies": {
+            "bleelblep.ai-core": {
+              "optional": true,
+              "version": ">=1 <3"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "662d35fe59acee88c540da5fb58aab20cbe48aab0730bb4d44fa2feeb9a1e217",
+          "size": 64303,
+          "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.send-tweaks@1.1.10.zip"
+        },
         "1.1.2": {
           "dependencies": {
             "bleelblep.ai-core": {
@@ -1290,13 +1905,30 @@
           "sha256": "6f80fca0e21152c3184545a90eba494b13507be69e14193abf8a68e90e37308a",
           "size": 61964,
           "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.send-tweaks@1.1.7.zip"
+        },
+        "1.1.8": {
+          "dependencies": {
+            "bleelblep.ai-core": {
+              "optional": true,
+              "version": ">=1 <3"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "b533f3f467a64f594206792e806cc216e1a12b1535bb0a27ae521dae30207a91",
+          "size": 62097,
+          "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.send-tweaks@1.1.8.zip"
         }
       }
     },
     "bleelblep.sharp-corners": {
       "author": "bleelblep",
       "channels": {
-        "latest": "0.1.17"
+        "latest": "0.1.20"
       },
       "description": "Every corner in Discord sharp: square avatars, buttons, bubbles and bars.",
       "icon": "AppsIcon",
@@ -1341,6 +1973,32 @@
           "size": 33149,
           "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.sharp-corners@0.1.17.zip"
         },
+        "0.1.19": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "ca2e1d18b0eccc3cdc7ee7e1c7a2406050507c64a29d326de77e5351c186a7e5",
+          "size": 39262,
+          "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.sharp-corners@0.1.19.zip"
+        },
+        "0.1.20": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "a9d8b7a46002687f5d741f4dda0743cc3ceda18c1df9808f36a555c792991431",
+          "size": 41111,
+          "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.sharp-corners@0.1.20.zip"
+        },
         "0.1.7": {
           "dependencies": {
             "discord": {
@@ -1369,10 +2027,34 @@
         }
       }
     },
+    "bleelblep.show-tag": {
+      "author": "bleelblep, Cynosphere",
+      "channels": {
+        "latest": "1.3.6"
+      },
+      "description": "Shows usernames next to display names in chat, including in replies.",
+      "icon": "AtIcon",
+      "name": "Show Tag",
+      "versions": {
+        "1.3.6": {
+          "dependencies": {
+            "discord": {
+              "version": ">=350.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "f64bf09c7a9bdb1b83b05545bcad64fc5cf20ccb0f65ce30b663cdfc4ff3d51c",
+          "size": 20686,
+          "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.show-tag@1.3.6.zip"
+        }
+      }
+    },
     "bleelblep.speech-bubbles": {
       "author": "bleelblep",
       "channels": {
-        "latest": "0.7.21"
+        "latest": "0.7.29"
       },
       "description": "Chat as speech bubbles, yours on the right and theirs on the left.",
       "icon": "ChatIcon",
@@ -1442,13 +2124,78 @@
           "sha256": "3343c39752972653cdf61a193df2b1e46c999e1d21c5f705e807e4619acea1b9",
           "size": 192853,
           "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.speech-bubbles@0.7.21.zip"
+        },
+        "0.7.22": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "d317be8ad85b886a65a8182e1f28876fff59e4128d5f1581408039bb6f8f0c2c",
+          "size": 193227,
+          "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.speech-bubbles@0.7.22.zip"
+        },
+        "0.7.24": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "69a09cede4c4fb3f16278ddc218e339e377ed53c4961f9ef75c74e93f0c7ed9b",
+          "size": 194328,
+          "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.speech-bubbles@0.7.24.zip"
+        },
+        "0.7.27": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "ee18b673cf95d42a6e048ec29c45be011cb1b85be53f328a1eb15dc7cc11c428",
+          "size": 198449,
+          "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.speech-bubbles@0.7.27.zip"
+        },
+        "0.7.28": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "d23cf2c64fffbd9c6e33f1aa8e098db578deedbd809702b890aeec16930ca85a",
+          "size": 198921,
+          "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.speech-bubbles@0.7.28.zip"
+        },
+        "0.7.29": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "89ababca58d70e253abc0e3432c3b8687174115a10d3a7dea9897c10a807af84",
+          "size": 199361,
+          "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.speech-bubbles@0.7.29.zip"
         }
       }
     },
     "bleelblep.staff-tags": {
       "author": "bleelblep",
       "channels": {
-        "latest": "1.3.16"
+        "latest": "1.3.17"
       },
       "contributors": [
         "Fiery",
@@ -1483,13 +2230,26 @@
           "sha256": "ae420399ebca86a0de581181cee5f8c781abfb4f376c27bc66218e5becef953d",
           "size": 12950,
           "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.staff-tags@1.3.16.zip"
+        },
+        "1.3.17": {
+          "dependencies": {
+            "discord": {
+              "version": ">=350.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "dcb7723cefea5ab2fe034f58f3326070a316e19bcd04e2b8a0f8b6c1d0e03441",
+          "size": 13503,
+          "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.staff-tags@1.3.17.zip"
         }
       }
     },
     "bleelblep.text-animation": {
       "author": "bleelblep",
       "channels": {
-        "latest": "0.1.13"
+        "latest": "0.1.14"
       },
       "description": "Animates letters as you type and delete, with a smooth gliding cursor.",
       "icon": "TextIcon",
@@ -1520,6 +2280,19 @@
           "sha256": "9e38ade7e893c47d47e705d7784d726462f0c2a0304702cd571c0eab192302d5",
           "size": 36016,
           "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.text-animation@0.1.13.zip"
+        },
+        "0.1.14": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "04f7f8f32c656d88d6043fe9efea24bd766487d321edab6e1219bd7f98c2f205",
+          "size": 36257,
+          "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.text-animation@0.1.14.zip"
         },
         "0.1.8": {
           "dependencies": {
@@ -1628,12 +2401,25 @@
     "bleelblep.ui-tweaks": {
       "author": "bleelblep",
       "channels": {
-        "latest": "0.9.6"
+        "latest": "0.10.0"
       },
       "description": "Hide parts of Discord's menus and settings, and choose what double-tap and swipes do.",
       "icon": "SlidersIcon",
       "name": "UI Tweaks",
       "versions": {
+        "0.10.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "383bf510bc9d7087cc5b10fedacd608cc1476b4d87019c1b590af9049cea4993",
+          "size": 49815,
+          "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.ui-tweaks@0.10.0.zip"
+        },
         "0.8.4": {
           "dependencies": {
             "discord": {
@@ -1685,6 +2471,19 @@
           "sha256": "a947eebca1470628d2f5d5d932eadf72f69adc36e744e748d6ad4af67925305c",
           "size": 45755,
           "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.ui-tweaks@0.9.6.zip"
+        },
+        "0.9.7": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "87414823d927eb6ae507ccd21344cf9dee075b24fc1cb3cc49253482a3857d4b",
+          "size": 45937,
+          "url": "https://bleelblep.github.io/bleel-bazinga-repo/pool/bleelblep.ui-tweaks@0.9.7.zip"
         }
       }
     },
@@ -1750,10 +2549,85 @@
         }
       }
     },
+    "com.otkusteyler.capri-pet": {
+      "author": "choccychan aka btmc727 <554071670143451176>",
+      "channels": {
+        "latest": "1.0.5"
+      },
+      "description": "A neon cyber-kitten pet that floats on your screen. Drag her, pat her, feed her.",
+      "icon": "RobotIcon",
+      "name": "Capri Pet",
+      "versions": {
+        "1.0.2": {
+          "dependencies": {
+            "com.otkusteyler.lib": {
+              "version": ">=1.0.0 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "480e07cd47edad1b5784a382a9a5288bc4b7d0cc9b527c8b0872385ce15e9ef1",
+          "size": 3232,
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.capri-pet@1.0.2.zip"
+        },
+        "1.0.3": {
+          "dependencies": {
+            "com.otkusteyler.lib": {
+              "version": ">=1.0.0 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "81951bb51748bad26c85184a3225e80e54ddc6e10b5bcada1861d7bbe0aa2551",
+          "size": 3232,
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.capri-pet@1.0.3.zip"
+        },
+        "1.0.4": {
+          "dependencies": {
+            "com.otkusteyler.lib": {
+              "version": ">=1.0.0 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "779e11b8738dbda983be50a2e49e4b38e097f7bfbb115c3ebd6ae6bc44df4b19",
+          "size": 3592,
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.capri-pet@1.0.4.zip"
+        },
+        "1.0.5": {
+          "dependencies": {
+            "com.otkusteyler.lib": {
+              "version": ">=1.0.0 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "c5261072e3bd0978d496b0f785c06e3a24b60eb8e31ef5168e9d3f776c55728c",
+          "size": 3978,
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.capri-pet@1.0.5.zip"
+        }
+      }
+    },
     "com.otkusteyler.gifroulette": {
       "author": "OTKUSteyler aka btmc727",
       "channels": {
-        "latest": "1.0.6"
+        "latest": "1.1.3"
       },
       "contributors": [
         "k1ng_op <641266820187160576> (https://github.com/k1ng0p \"GitHub\")"
@@ -1854,6 +2728,118 @@
           "sha256": "e6541b3ff5482c5288e27e580577c9cf1599f6ccb423f026231de45bffda2cdb",
           "size": 1506,
           "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.gifroulette@1.0.6.zip"
+        },
+        "1.0.7": {
+          "dependencies": {
+            "com.otkusteyler.lib": {
+              "version": ">=1.0.0 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "720dd389612f3844d063fb16c56cf8026c0c2dc0025421cfcb9be645d9001651",
+          "size": 1659,
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.gifroulette@1.0.7.zip"
+        },
+        "1.0.8": {
+          "dependencies": {
+            "com.otkusteyler.lib": {
+              "version": ">=1.0.0 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "6b88fe5fec7d4f17c1624c317b3d519c451f54234cbb53ca34f6dbf7e3f41a03",
+          "size": 2821,
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.gifroulette@1.0.8.zip"
+        },
+        "1.0.9": {
+          "dependencies": {
+            "com.otkusteyler.lib": {
+              "version": ">=1.0.0 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "90849497a3278d98919bfa01b62cc2378d876b2919af154c71e34c9c229315dd",
+          "size": 3212,
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.gifroulette@1.0.9.zip"
+        },
+        "1.1.0": {
+          "dependencies": {
+            "com.otkusteyler.lib": {
+              "version": ">=1.0.0 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "e838e2aea3735218e6fc77266d7c37283ebed4237d98bdbbf69c10145ebb08d0",
+          "size": 3309,
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.gifroulette@1.1.0.zip"
+        },
+        "1.1.1": {
+          "dependencies": {
+            "com.otkusteyler.lib": {
+              "version": ">=1.0.0 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "c59470f728d49e6d7ef46baa21a7779a32d33d64fdf055d27904e6f52df6208f",
+          "size": 3422,
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.gifroulette@1.1.1.zip"
+        },
+        "1.1.2": {
+          "dependencies": {
+            "com.otkusteyler.lib": {
+              "version": ">=1.0.0 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "1c369ea020319cf0731d367726fe0a909ddb3be2d79a62f73549fdea998ed83e",
+          "size": 1825,
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.gifroulette@1.1.2.zip"
+        },
+        "1.1.3": {
+          "dependencies": {
+            "com.otkusteyler.lib": {
+              "version": ">=1.0.0 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "e9581dd09df91a8aa27ad8cba9b82205d5007135be8921a9f799e7ee52b06439",
+          "size": 1483,
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.gifroulette@1.1.3.zip"
         }
       }
     },
@@ -2092,7 +3078,7 @@
     "com.valenced.nitro-profiles": {
       "author": "btmc727 <554071670143451176>",
       "channels": {
-        "latest": "1.1.8"
+        "latest": "1.2.0"
       },
       "contributors": [
         "knifecodez <1053918356375351386>"
@@ -2309,6 +3295,65 @@
           "sha256": "538fcc6749e539781a6b16342b1f9e235087130439e67ef09fbfa962b1767294",
           "size": 3377,
           "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.valenced.nitro-profiles@1.1.8.zip"
+        },
+        "1.1.9": {
+          "dependencies": {
+            "com.otkusteyler.lib": {
+              "version": ">=1.0.0 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "e8ecf32bd6c496b7f5db5e10e6f913be75188b30bf8db94bfc54c173e71924ee",
+          "size": 3138,
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.valenced.nitro-profiles@1.1.9.zip"
+        },
+        "1.2.0": {
+          "dependencies": {
+            "com.otkusteyler.lib": {
+              "version": ">=1.0.0 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "aa0949af0361db141af0d483e95dae9901cc269fdf21eb23b5210e244a43cecd",
+          "size": 3113,
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.valenced.nitro-profiles@1.2.0.zip"
+        }
+      }
+    },
+    "dev.benjii.better-chatbox": {
+      "author": "LampDelivery <650805815623680030>",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "contributors": [
+        "Benjii <463702169443368970>"
+      ],
+      "description": "Adds your avatar to the chatbox and lets you give the chatbox a custom colour or image background.",
+      "icon": "ChatIcon",
+      "name": "Better Chatbox",
+      "versions": {
+        "1.0.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "201db94801020f6535cbfd025617cf9013943c010f107f52699c3ecd40b1936d",
+          "size": 20872,
+          "url": "https://plugins.benjiisworld.com/pool/dev.benjii.better-chatbox@1.0.0.zip"
         }
       }
     },
@@ -2533,16 +3578,16 @@
         }
       }
     },
-    "dev.benjii.feeds-page": {
+    "dev.benjii.gif-categories": {
       "author": "Benjii <463702169443368970>",
       "channels": {
-        "latest": "1.0.0"
+        "latest": "0.1.2"
       },
-      "description": "Merge chosen channels into one chat. Replies, reactions and messages still go to each message's own channel. Change channel by long pressing send button.",
-      "icon": "ChatIcon",
-      "name": "Feeds Page",
+      "description": "Local categories in the GIF picker, with file backup and restore.",
+      "icon": "GifIcon",
+      "name": "GIF Categories",
       "versions": {
-        "1.0.0": {
+        "0.0.9": {
           "dependencies": {
             "discord": {
               "version": "*"
@@ -2551,16 +3596,42 @@
               "version": ">=1 <2"
             }
           },
-          "sha256": "c25e405b947bb3741f8b4d0a90c18ec3e9c631cf33f5521ba4002b2db22de2ef",
-          "size": 24092,
-          "url": "https://plugins.benjiisworld.com/pool/dev.benjii.feeds-page@1.0.0.zip"
+          "sha256": "e8e3270d2cc4004256d37f491624c44ab531a58951b7f184c8714f80a57cce1e",
+          "size": 24432,
+          "url": "https://plugins.benjiisworld.com/pool/dev.benjii.gif-categories@0.0.9.zip"
+        },
+        "0.1.1": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "528ad33ce7b298023a7b3dd14df49f5b8cc95750f8ba1bff8682daad5b358beb",
+          "size": 24441,
+          "url": "https://plugins.benjiisworld.com/pool/dev.benjii.gif-categories@0.1.1.zip"
+        },
+        "0.1.2": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "7268d6a963b3ea816e9f1be97044294b63ca6e77e10b54d172e4e8e125cad468",
+          "size": 24470,
+          "url": "https://plugins.benjiisworld.com/pool/dev.benjii.gif-categories@0.1.2.zip"
         }
       }
     },
     "dev.benjii.gif-providers": {
       "author": "Palm <629368283354628116> (https://github.com/sponsors/PalmDevs \"Donations\") (https://palmdevs.me \"Website\") (https://github.com/PalmDevs \"GitHub\")",
       "channels": {
-        "latest": "1.0.1"
+        "latest": "1.0.2"
       },
       "contributors": [
         "Livie <755950362342457384>",
@@ -2595,6 +3666,19 @@
           "sha256": "daab61bd805baf4af76e91ec4c7c60db6db6358c70608bc103df8c32736d4020",
           "size": 22472,
           "url": "https://plugins.benjiisworld.com/pool/dev.benjii.gif-providers@1.0.1.zip"
+        },
+        "1.0.2": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "cf71f94cd174866e9cf006eebfb10bf05b9ea39bebb6b088dc7cd79a6edfcc1e",
+          "size": 22485,
+          "url": "https://plugins.benjiisworld.com/pool/dev.benjii.gif-providers@1.0.2.zip"
         }
       }
     },
@@ -2641,7 +3725,7 @@
     "dev.benjii.github-repos": {
       "author": "Benjii <463702169443368970>",
       "channels": {
-        "latest": "1.0.1"
+        "latest": "1.0.2"
       },
       "description": "Browse repositories, stars and contributions from profile GitHub connections.",
       "icon": "GithubIcon",
@@ -2672,13 +3756,26 @@
           "sha256": "5d7ae7a8e7cd38c76d4675d178e2df954b028e85be507dd683f27ad782bc0c6e",
           "size": 23537,
           "url": "https://plugins.benjiisworld.com/pool/dev.benjii.github-repos@1.0.1.zip"
+        },
+        "1.0.2": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "4c94084a0bf0362b3f8b49b347450e4202a0a6f53cd69a10f7c72436e5daf04a",
+          "size": 24201,
+          "url": "https://plugins.benjiisworld.com/pool/dev.benjii.github-repos@1.0.2.zip"
         }
       }
     },
     "dev.benjii.quoter": {
       "author": "Benjii <463702169443368970>",
       "channels": {
-        "latest": "1.0.3"
+        "latest": "1.0.4"
       },
       "description": "Create quote images from messages.",
       "icon": "QuoteIcon",
@@ -2722,13 +3819,50 @@
           "sha256": "bd3bd4e1ebc3f098b30d7f9f014640bddc731e8e5d01c3b99329b50d8d3c055b",
           "size": 37096,
           "url": "https://plugins.benjiisworld.com/pool/dev.benjii.quoter@1.0.3.zip"
+        },
+        "1.0.4": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "aeb956e2211d54d2357f3779f67d94e3e84d14139a58b6e06fb1f595cc210ece",
+          "size": 38383,
+          "url": "https://plugins.benjiisworld.com/pool/dev.benjii.quoter@1.0.4.zip"
+        }
+      }
+    },
+    "dev.benjii.screenshot-scrambler": {
+      "author": "Benjii <463702169443368970>",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "description": "A floating button that scrambles names, messages and other private text so you can take a safe screenshot.",
+      "icon": "EyeSlashIcon",
+      "name": "Screenshot Scrambler",
+      "versions": {
+        "1.0.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "48be66467f188a463a788835b9b82275b7062c5925ff8d1c230a92d564c619a7",
+          "size": 23612,
+          "url": "https://plugins.benjiisworld.com/pool/dev.benjii.screenshot-scrambler@1.0.0.zip"
         }
       }
     },
     "dev.benjii.server-drawer": {
       "author": "kmmiio99o <879393496627306587>",
       "channels": {
-        "latest": "1.0.8"
+        "latest": "1.0.10"
       },
       "contributors": [
         "Rosie <1356936317501571214>",
@@ -2750,6 +3884,19 @@
           "sha256": "8598b9a1209f36eb9bc8030fa0d03548b8b459f227e87911d4dbb4c2f3287978",
           "size": 36731,
           "url": "https://plugins.benjiisworld.com/pool/dev.benjii.server-drawer@1.0.0.zip"
+        },
+        "1.0.10": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "b54ec16646165011bcfc8fb4c7c73ec71379dbb8dec4e879f45e5670a49663da",
+          "size": 38167,
+          "url": "https://plugins.benjiisworld.com/pool/dev.benjii.server-drawer@1.0.10.zip"
         },
         "1.0.4": {
           "dependencies": {
@@ -2815,6 +3962,19 @@
           "sha256": "7bcfcf8d345ab679ea3d7714ecd2fe56535f2e04d77c27c32c3d1f7cd2ad8bc9",
           "size": 37924,
           "url": "https://plugins.benjiisworld.com/pool/dev.benjii.server-drawer@1.0.8.zip"
+        },
+        "1.0.9": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "8f5f6d5fd18149f4ca7368f7efddeb195758240de9509a300f0507a9cf4a55b8",
+          "size": 38154,
+          "url": "https://plugins.benjiisworld.com/pool/dev.benjii.server-drawer@1.0.9.zip"
         }
       }
     },
@@ -3106,6 +4266,43 @@
         }
       }
     },
+    "dxckie.bio-emoji-button": {
+      "author": "dxckie (https://github.com/dxckie-cell \"GitHub\")",
+      "channels": {
+        "latest": "1.8.7"
+      },
+      "description": "Adds an emoji button to the bio box when editing your profile.",
+      "icon": "ReactionIcon",
+      "name": "Bio Emoji Button",
+      "versions": {
+        "1.8.6": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "ba1373b6d2fb0ad9af112f13681960b8eec2910b009b8ad4c48c36f0b05ca1f5",
+          "size": 4132,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.bio-emoji-button@1.8.6.zip"
+        },
+        "1.8.7": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "dec44b1f7d431ab5c02917f544aaa8d6f983f6b14262539160683472a40f4997",
+          "size": 4138,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.bio-emoji-button@1.8.7.zip"
+        }
+      }
+    },
     "dxckie.bio-emoji-context": {
       "author": "dxckie (https://github.com/dxckie-cell \"GitHub\")",
       "channels": {
@@ -3192,6 +4389,46 @@
           "sha256": "f3899a3244b0007ce6e18c93055f9e821265028fc2d8b73dbe44b2234ed2df30",
           "size": 2680,
           "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.bio-emoji-context@1.2.3.zip"
+        }
+      }
+    },
+    "dxckie.capri-pet": {
+      "author": "dxckie (https://github.com/dxckie-cell \"GitHub\")",
+      "channels": {
+        "latest": "1.0.9"
+      },
+      "contributors": [
+        "choccychan aka btmc727 <554071670143451176> (https://github.com/OTKUSteyler \"GitHub\")"
+      ],
+      "description": "A neon cyber-kitten pet that floats on your screen. Drag her, pat her, feed her.",
+      "icon": "RobotIcon",
+      "name": "Capri Pet",
+      "versions": {
+        "1.0.8": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "26d748e3135173ece2131ae0c05c7a1fea865130364cdf44d6dfa709e4f9e0a2",
+          "size": 5263,
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/dxckie.capri-pet@1.0.8.zip"
+        },
+        "1.0.9": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "7f291edd1549f9518c3d6aee11c5e20513c8e951b80dbe0256764f4d2219ef95",
+          "size": 5263,
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/dxckie.capri-pet@1.0.9.zip"
         }
       }
     },
@@ -3316,6 +4553,33 @@
           "sha256": "81b73904ea427bfd3a6c6d83cf71d1beba2d2bb1af319dabd143bf0eceb5841e",
           "size": 3452,
           "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.discord-editor@1.1.2.zip"
+        }
+      }
+    },
+    "dxckie.giphy-gif-fix": {
+      "author": "dxckie (https://github.com/dxckie-cell \"GitHub\")",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "contributors": [
+        "nexpid (https://github.com/nexpid \"GitHub\")"
+      ],
+      "description": "Saves and shares Giphy GIFs as .gif instead of .mp4.",
+      "icon": "GifIcon",
+      "name": "Giphy Gif Fix",
+      "versions": {
+        "1.0.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "4da217b6283529cdd9f296fff6244b461d45f44b13a3b516bddafbe55e6fedd4",
+          "size": 2049,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.giphy-gif-fix@1.0.0.zip"
         }
       }
     },
@@ -3587,6 +4851,85 @@
         }
       }
     },
+    "dxckie.klipy-gif-fix": {
+      "author": "dxckie (https://github.com/dxckie-cell \"GitHub\")",
+      "channels": {
+        "latest": "1.2.0"
+      },
+      "contributors": [
+        "nexpid (https://github.com/nexpid \"GitHub\")"
+      ],
+      "description": "Saves and shares Klipy GIFs as .gif instead of .mp4.",
+      "icon": "GifIcon",
+      "name": "Klipy Gif Fix",
+      "versions": {
+        "1.0.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "6f436f34e9d58d64076c7bf198ab127984a1b6c21ca251fe6d0440dd63f911f7",
+          "size": 3381,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.klipy-gif-fix@1.0.0.zip"
+        },
+        "1.1.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "083e7a530ef6331035fa3732a1633142a636aa186271a20709270bfc0d8e6956",
+          "size": 3511,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.klipy-gif-fix@1.1.0.zip"
+        },
+        "1.1.1": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "b36f88ad38b9edf9e883376769ccafdc4728a2c95c39aef97982dfbec281c2c4",
+          "size": 2874,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.klipy-gif-fix@1.1.1.zip"
+        },
+        "1.1.2": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "6fe1730127ed2bce44a36ef004f805f7a1faf17b77152af861ab1aefc5035eb6",
+          "size": 2873,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.klipy-gif-fix@1.1.2.zip"
+        },
+        "1.2.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "2975bdbbd0f4e16f2c0601923bc0001e01d0f823326292017eaebc8f9dd62794",
+          "size": 3063,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.klipy-gif-fix@1.2.0.zip"
+        }
+      }
+    },
     "dxckie.local-pins": {
       "author": "dxckie (https://github.com/dxckie-cell \"GitHub\")",
       "channels": {
@@ -3624,17 +4967,14 @@
         }
       }
     },
-    "dxckie.no-compression": {
+    "dxckie.no-mosaic": {
       "author": "dxckie (https://github.com/dxckie-cell \"GitHub\")",
       "channels": {
         "latest": "1.0.0"
       },
-      "contributors": [
-        "MSMA <307215253811363843> (https://github.com/Martinz64 \"GitHub\")"
-      ],
-      "description": "Prevents Discord from compressing files when uploading.",
-      "icon": "FileIcon",
-      "name": "No Compression",
+      "description": "Shows message images and videos one under another instead of in a grid.",
+      "icon": "ImageIcon",
+      "name": "NoMosaic",
       "versions": {
         "1.0.0": {
           "dependencies": {
@@ -3645,16 +4985,156 @@
               "version": ">=1 <2"
             }
           },
-          "sha256": "710717ec679825533508d123f467dbd65111053fc4263532ff078f60f5e6e9b4",
-          "size": 1243,
-          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.no-compression@1.0.0.zip"
+          "sha256": "d15c803ecadf55b2ea9b4a25cf34dbf75bade554648ae5e70bc964423d35fbfb",
+          "size": 787,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.no-mosaic@1.0.0.zip"
+        }
+      }
+    },
+    "dxckie.no-mosaic-diagnostic": {
+      "author": "dxckie (https://github.com/dxckie-cell \"GitHub\")",
+      "channels": {
+        "latest": "0.0.10"
+      },
+      "description": "Temporary helper: lists Discord's media grid modules so NoMosaic can be ported.",
+      "name": "NoMosaic Diagnostic",
+      "versions": {
+        "0.0.1": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "54591661fbc11590899de849cba1267a8ca12f0bd4707a0fd20f02d3f3fd5152",
+          "size": 1689,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.no-mosaic-diagnostic@0.0.1.zip"
+        },
+        "0.0.10": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "f3239a31f83056540b26bc567d06ece69fa69e1ee9254cae72540f2bc74c45f2",
+          "size": 3743,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.no-mosaic-diagnostic@0.0.10.zip"
+        },
+        "0.0.2": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "fda7754e2a6967d4f5f4c0ea080cabef2bb25112682a7225dbe3a85f61b48233",
+          "size": 1692,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.no-mosaic-diagnostic@0.0.2.zip"
+        },
+        "0.0.3": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "0fae9e27a7d3dbe128ccde8a67fe7e1b4483bd2684116e720ba6b01d4b339951",
+          "size": 1972,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.no-mosaic-diagnostic@0.0.3.zip"
+        },
+        "0.0.4": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "dd0af41901680b99b20e1def75243777226ea18e45947656ea93da6dba83bc69",
+          "size": 2157,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.no-mosaic-diagnostic@0.0.4.zip"
+        },
+        "0.0.5": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "c4af2d9058d2fb5c10493947c6ef2d0d47170d35ada3acba117cec8a11fb1e8d",
+          "size": 2962,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.no-mosaic-diagnostic@0.0.5.zip"
+        },
+        "0.0.6": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "f3c94da769b9e6c7d738121ecf9f3451819fa6e1b08f1070f609ffe0fc99bd3e",
+          "size": 3117,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.no-mosaic-diagnostic@0.0.6.zip"
+        },
+        "0.0.7": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "63c1c88bc33e1e0cc2047cfbb0e0049d5be9ea73dec915852391d24726cb8750",
+          "size": 3404,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.no-mosaic-diagnostic@0.0.7.zip"
+        },
+        "0.0.8": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "14c928bb4d2964408f80f9d93fc0e68b2d9cf4a363df88f1e8150869d46870c8",
+          "size": 3486,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.no-mosaic-diagnostic@0.0.8.zip"
+        },
+        "0.0.9": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "90de3711d2de96502880d9c744f83d3a22adb6dafea3f0041b377c26d898d823",
+          "size": 3623,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.no-mosaic-diagnostic@0.0.9.zip"
         }
       }
     },
     "dxckie.override-server-appearance": {
       "author": "dxckie (https://github.com/dxckie-cell \"GitHub\")",
       "channels": {
-        "latest": "2.2.7"
+        "latest": "2.2.9"
       },
       "description": "Set a custom icon and banner for any Discord server, only on your device.",
       "name": "Override Server Appearance",
@@ -3963,13 +5443,43 @@
           "sha256": "8538d06041970b1a88109c156ad03295879d76046bd4c1223408fa715216d4f8",
           "size": 3297,
           "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.override-server-appearance@2.2.7.zip"
+        },
+        "2.2.8": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.settings": {},
+            "valenced.settings.plugins": {}
+          },
+          "sha256": "13a34894c7e9c0596babc5c6b8f9dc366f807a4eaf3672c33d7504ad5a81c4ea",
+          "size": 3298,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.override-server-appearance@2.2.8.zip"
+        },
+        "2.2.9": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.settings": {},
+            "valenced.settings.plugins": {}
+          },
+          "sha256": "4c40ae375ab3756eee912b88547fddac64e54c5ac20dcdf44664e680b41f36d3",
+          "size": 3299,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.override-server-appearance@2.2.9.zip"
         }
       }
     },
     "dxckie.override-user-avatars": {
       "author": "dxckie (https://github.com/dxckie-cell \"GitHub\")",
       "channels": {
-        "latest": "1.1.1"
+        "latest": "1.3.0"
       },
       "description": "Allows you to set a custom profile picture for any Discord user.",
       "name": "Override User Avatars",
@@ -4029,13 +5539,58 @@
           "sha256": "0695d53caf4dfc935db235477713d4581b49524e0f236284d190a2c70a63bbb8",
           "size": 3305,
           "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.override-user-avatars@1.1.1.zip"
+        },
+        "1.1.2": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.settings": {},
+            "valenced.settings.plugins": {}
+          },
+          "sha256": "f4467314b0b3313acbd9f8844846a329f1265b46fd2ea3aa6db13f05d121e6fc",
+          "size": 3306,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.override-user-avatars@1.1.2.zip"
+        },
+        "1.2.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.settings": {},
+            "valenced.settings.plugins": {}
+          },
+          "sha256": "6b2f1d4427d551c4ddd050fb1a8f82b277e38c0b1dc144bdd1969fdcef37df47",
+          "size": 3319,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.override-user-avatars@1.2.0.zip"
+        },
+        "1.3.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.settings": {},
+            "valenced.settings.plugins": {}
+          },
+          "sha256": "153f05af9dc8e478be480f368639222a7c702740657639fb3ccf9d97dcc1bf82",
+          "size": 3489,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.override-user-avatars@1.3.0.zip"
         }
       }
     },
     "dxckie.override-user-banners": {
       "author": "dxckie (https://github.com/dxckie-cell \"GitHub\")",
       "channels": {
-        "latest": "1.2.1"
+        "latest": "1.3.0"
       },
       "description": "Allows you to set a custom profile banner for any Discord user.",
       "name": "Override User Banners",
@@ -4121,13 +5676,135 @@
           "sha256": "cd87e5df480f7dc51f7529139d64967694790893861f35d0da47b60681bc3b55",
           "size": 3419,
           "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.override-user-banners@1.2.1.zip"
+        },
+        "1.2.2": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.settings": {},
+            "valenced.settings.plugins": {}
+          },
+          "sha256": "97fe589f9c7c92bd8034463efddc696d36436409ec3ac9aeef9dc371c6647db8",
+          "size": 3421,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.override-user-banners@1.2.2.zip"
+        },
+        "1.3.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.settings": {},
+            "valenced.settings.plugins": {}
+          },
+          "sha256": "52dd2ac18b77caf2a64d7b90ac9d6efe42610f1c955ca738bb23cbfed4aca7c5",
+          "size": 3477,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.override-user-banners@1.3.0.zip"
+        }
+      }
+    },
+    "dxckie.pastelize": {
+      "author": "dxckie (https://github.com/dxckie-cell \"GitHub\")",
+      "channels": {
+        "latest": "1.2.2"
+      },
+      "contributors": [
+        "Cynosphere <150745989836308480> (https://github.com/Cynosphere \"GitHub\")"
+      ],
+      "description": "Pastelize (uncolored) names based on user ID.",
+      "icon": "PaintPaletteIcon",
+      "name": "Pastelize",
+      "versions": {
+        "1.0.2": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "b928b370e6c0a46f660345ce210fc066e1a1a53896b76bbf856d73a6fe504aca",
+          "size": 2165,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.pastelize@1.0.2.zip"
+        },
+        "1.0.3": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "c4960d4e3239d7e9d32f5eeff66dbd0c2e9f66dc1f862913aa0b4b56cfd558b9",
+          "size": 2204,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.pastelize@1.0.3.zip"
+        },
+        "1.1.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "abbb531019de2b7e765587907b9ff16d99cd44761377b5c967c23f094c9fb4e1",
+          "size": 2403,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.pastelize@1.1.0.zip"
+        },
+        "1.2.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "02e6ef5fdd739dd1be93a1d1955702e2a5b0d65e892e842146f5a667fe68c37f",
+          "size": 2630,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.pastelize@1.2.0.zip"
+        },
+        "1.2.1": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "4f99b4f7fadbcf5ac8d72e02fa4c11aca337ce4f12d348345d1393d9d3ac5647",
+          "size": 2853,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.pastelize@1.2.1.zip"
+        },
+        "1.2.2": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "26f674628ccde2bce48209d22d04591002fa869db9bb8f905daa6432f66ccf5b",
+          "size": 2682,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.pastelize@1.2.2.zip"
         }
       }
     },
     "dxckie.picture-links": {
       "author": "dxckie (https://github.com/dxckie-cell \"GitHub\")",
       "channels": {
-        "latest": "1.0.10"
+        "latest": "1.0.11"
       },
       "contributors": [
         "redstonekasi <265064055490871297> (https://github.com/redstonekasi \"GitHub\")",
@@ -4175,6 +5852,19 @@
           "sha256": "904e03ee871e768aacefc946fc04cd8352649cce387496a781171fc310684ba8",
           "size": 4318,
           "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.picture-links@1.0.10.zip"
+        },
+        "1.0.11": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "1fc96ba0347faa63c34c4362b7268a4b0be031a4252563921fd937109dac2f95",
+          "size": 4341,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.picture-links@1.0.11.zip"
         },
         "1.0.2": {
           "dependencies": {
@@ -4285,7 +5975,7 @@
     "dxckie.profile-spoof": {
       "author": "dxckie (https://github.com/dxckie-cell \"GitHub\")",
       "channels": {
-        "latest": "1.50.7"
+        "latest": "1.50.9"
       },
       "description": "Changes your own profile, only on your device: badges, username, display name and Member Since date.",
       "icon": "UserIcon",
@@ -4903,6 +6593,36 @@
           "sha256": "97520de54ac15603055718a20f5dc54284a6b3129df7c30a4faf697358d26db1",
           "size": 20011,
           "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.profile-spoof@1.50.7.zip"
+        },
+        "1.50.8": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.settings": {},
+            "valenced.settings.plugins": {}
+          },
+          "sha256": "07d4e9908cd588707012a21249de26ba643397046301ec0390810adbbb9d70ba",
+          "size": 20007,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.profile-spoof@1.50.8.zip"
+        },
+        "1.50.9": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.settings": {},
+            "valenced.settings.plugins": {}
+          },
+          "sha256": "d6a8728b2c07f81f333e01e094e50d0bfbc3b15a70029e84a7331592db1b067d",
+          "size": 20019,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.profile-spoof@1.50.9.zip"
         }
       }
     },
@@ -5035,6 +6755,144 @@
         }
       }
     },
+    "dxckie.theme.periwinkle": {
+      "author": "dxckie (https://github.com/dxckie-cell \"GitHub\")",
+      "channels": {
+        "latest": "1.4.1"
+      },
+      "description": "Deep indigo surfaces with soft periwinkle accents.",
+      "name": "Periwinkle",
+      "versions": {
+        "1.0.0": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "32dc3f36d86fa05671bc2aa924bc31326691894fed2c6cc4bab740974b65c1a8",
+          "size": 10267,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.theme.periwinkle@1.0.0.zip"
+        },
+        "1.1.0": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "2e09c112be4b04b3d5d6240072a8569af92bf026f9970148e210a91878b5a46c",
+          "size": 10278,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.theme.periwinkle@1.1.0.zip"
+        },
+        "1.2.0": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "e9a07ee3771674cfe31b8d69729c4bf590351f3dd8860d91c0fca4bbb5696418",
+          "size": 10079,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.theme.periwinkle@1.2.0.zip"
+        },
+        "1.3.0": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "3f6f61ee5b2a9d2a41f9b6111da62dd6bb3425de1950531de66d2621b42f6344",
+          "size": 10266,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.theme.periwinkle@1.3.0.zip"
+        },
+        "1.3.1": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "43d4e89fe8b4ee83925a45fec0915564365d3bbd1ad88c18fa1a142d9a4e0f02",
+          "size": 10275,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.theme.periwinkle@1.3.1.zip"
+        },
+        "1.3.2": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "9ed8f5f0b86c224735bbf285f394fdc3d5840b48bf782d61d613de5930155139",
+          "size": 10268,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.theme.periwinkle@1.3.2.zip"
+        },
+        "1.4.0": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "e7745fba644db553329fdcb199cf93502d5e8714b5eefd678f93da3d1920b828",
+          "size": 10341,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.theme.periwinkle@1.4.0.zip"
+        },
+        "1.4.1": {
+          "dependencies": {
+            "discord": {
+              "version": ">=352.2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": ">=1.0.1 <2"
+            }
+          },
+          "sha256": "066a9c6e00db5148cfd20bbfc2729aeb0f0c8ca0e26e8b2bde9b8ca6b757e6d8",
+          "size": 10288,
+          "url": "https://dxckie-cell.github.io/valenced-plugins/pool/dxckie.theme.periwinkle@1.4.1.zip"
+        }
+      }
+    },
     "k1ngop.instant-actions": {
       "author": "k1ng_op <641266820187160576> (https://github.com/k1ng0p \"GitHub\")",
       "channels": {
@@ -5062,7 +6920,7 @@
     "k1ngop.junk-cleanup": {
       "author": "k1ng_op <641266820187160576> (https://github.com/k1ng0p \"GitHub\")",
       "channels": {
-        "latest": "1.2.0"
+        "latest": "1.2.1"
       },
       "description": "Hides useless UI: profile cosmetics, Nitro upsells, extra menu rows, settings sections, voice call clutter and more.",
       "icon": "MagicWandIcon",
@@ -5119,6 +6977,19 @@
           "sha256": "bd151ba9fa1b6581b3a9f8f75a2cfcf95dd54651299fc7f436e8753698bf38b1",
           "size": 5757,
           "url": "https://k1ng0p.github.io/Valenced-Plugins-by-k1ng0p/pool/k1ngop.junk-cleanup@1.2.0.zip"
+        },
+        "1.2.1": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "06ffc7e288e1cf4aa2e7540e23e19cbbc2dbefce281208d79e30fc5f21e911bd",
+          "size": 6180,
+          "url": "https://k1ng0p.github.io/Valenced-Plugins-by-k1ng0p/pool/k1ngop.junk-cleanup@1.2.1.zip"
         }
       }
     },
@@ -5162,7 +7033,7 @@
     "k1ngop.platform-indicators": {
       "author": "k1ng_op <641266820187160576> (https://github.com/k1ng0p \"GitHub\")",
       "channels": {
-        "latest": "1.0.0"
+        "latest": "1.2.7"
       },
       "contributors": [
         "Martinz64"
@@ -5183,6 +7054,123 @@
           "sha256": "283e7488391e0bbf8ea530d187915d4b531033f7437dcc3f63ef833ca91f385f",
           "size": 5564,
           "url": "https://k1ng0p.github.io/Valenced-Plugins-by-k1ng0p/pool/k1ngop.platform-indicators@1.0.0.zip"
+        },
+        "1.1.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "930f879423b1a4c1e05ee9eeeb50dc754fc2110dad90dfbea26b47a615209d8c",
+          "size": 5674,
+          "url": "https://k1ng0p.github.io/Valenced-Plugins-by-k1ng0p/pool/k1ngop.platform-indicators@1.1.0.zip"
+        },
+        "1.2.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "e9674076b0bca76a4187d8e048f82f3215f18bf7d6704a0393c22e8c0018f797",
+          "size": 6551,
+          "url": "https://k1ng0p.github.io/Valenced-Plugins-by-k1ng0p/pool/k1ngop.platform-indicators@1.2.0.zip"
+        },
+        "1.2.1": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "c9f61e45335f70afb110f1b4c83939fc93281cc25308b0a3819fffab5d1e758b",
+          "size": 6566,
+          "url": "https://k1ng0p.github.io/Valenced-Plugins-by-k1ng0p/pool/k1ngop.platform-indicators@1.2.1.zip"
+        },
+        "1.2.2": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "f4ccaee7d892e954d3405e4160fd40e9962e674cdb7ff996d47fbdc03608c682",
+          "size": 23251,
+          "url": "https://k1ng0p.github.io/Valenced-Plugins-by-k1ng0p/pool/k1ngop.platform-indicators@1.2.2.zip"
+        },
+        "1.2.3": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "e5d03a1f7943fb2bbca86b58dfca7f1fd0c224caef47548dff6134f50d1c8f25",
+          "size": 23262,
+          "url": "https://k1ng0p.github.io/Valenced-Plugins-by-k1ng0p/pool/k1ngop.platform-indicators@1.2.3.zip"
+        },
+        "1.2.4": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "12f106dd4988b6add0f2664fbee2507aed6de2d6077a3d68ff79fb347f23ba54",
+          "size": 23273,
+          "url": "https://k1ng0p.github.io/Valenced-Plugins-by-k1ng0p/pool/k1ngop.platform-indicators@1.2.4.zip"
+        },
+        "1.2.5": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "72eb64fce44df8fcc2d7b3449888ca2398d79ccb07364320e35dbb325bbe7969",
+          "size": 23307,
+          "url": "https://k1ng0p.github.io/Valenced-Plugins-by-k1ng0p/pool/k1ngop.platform-indicators@1.2.5.zip"
+        },
+        "1.2.6": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "8feb464aaab8a4d17186b8e2e93547b4194dc6e3967a0a0c42ced303a67d84d0",
+          "size": 23320,
+          "url": "https://k1ng0p.github.io/Valenced-Plugins-by-k1ng0p/pool/k1ngop.platform-indicators@1.2.6.zip"
+        },
+        "1.2.7": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "4b2589de53d1a352910a8336b8d7ec91335685e5ce84f3cdbf9fbfedc2cdbb9e",
+          "size": 23323,
+          "url": "https://k1ng0p.github.io/Valenced-Plugins-by-k1ng0p/pool/k1ngop.platform-indicators@1.2.7.zip"
         }
       }
     },
@@ -5273,6 +7261,43 @@
         }
       }
     },
+    "k1ngop.user-voice-show": {
+      "author": "k1ng_op <641266820187160576> (https://github.com/k1ng0p \"GitHub\")",
+      "channels": {
+        "latest": "1.0.1"
+      },
+      "description": "Shows an indicator when a user is in a voice channel.",
+      "icon": "VoiceNormalSpoilerIcon",
+      "name": "User Voice Show",
+      "versions": {
+        "1.0.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "c478951dcf2ac4e961609599caa02ede1617b98a19cda2f1dd98011e94527069",
+          "size": 22374,
+          "url": "https://k1ng0p.github.io/Valenced-Plugins-by-k1ng0p/pool/k1ngop.user-voice-show@1.0.0.zip"
+        },
+        "1.0.1": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "5f54bdf281fc2a7f2c92ac077c1dfa2b874ee7e65ccc07bc012e26174cf6859e",
+          "size": 22465,
+          "url": "https://k1ng0p.github.io/Valenced-Plugins-by-k1ng0p/pool/k1ngop.user-voice-show@1.0.1.zip"
+        }
+      }
+    },
     "k1ngop.valid-user": {
       "author": "k1ng_op <641266820187160576> (https://github.com/k1ng0p \"GitHub\")",
       "channels": {
@@ -5352,7 +7377,7 @@
     "k1ngop.watchlist": {
       "author": "k1ng_op <641266820187160576> (https://github.com/k1ng0p \"GitHub\")",
       "channels": {
-        "latest": "1.1.0"
+        "latest": "1.2.0"
       },
       "description": "Shows toasts when users you track change status, start typing, or send a message.",
       "icon": "EyeIcon",
@@ -5383,6 +7408,19 @@
           "sha256": "f6583ae74eb1ed88036c8a51d1e8f3c5f40e988145963f572c793e557d0a3166",
           "size": 3612,
           "url": "https://k1ng0p.github.io/Valenced-Plugins-by-k1ng0p/pool/k1ngop.watchlist@1.1.0.zip"
+        },
+        "1.2.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "d29db34bd5c33713ac6aefdd7efdeca3a4f538da6168971c61c38d10cc92c8c1",
+          "size": 4499,
+          "url": "https://k1ng0p.github.io/Valenced-Plugins-by-k1ng0p/pool/k1ngop.watchlist@1.2.0.zip"
         }
       }
     },
@@ -5667,13 +7705,14 @@
     "marklong.always-animate": {
       "author": "MarkLong0467 (https://github.com/MarkLong0467 \"GitHub\")",
       "channels": {
-        "latest": "3.1.0"
+        "latest": "4.1.3"
       },
       "contributors": [
-        "AlwaysAnimate for Vencord by FieryFlames (the idea; code written from scratch for Valenced)",
+        "fluttershy_simper67 (the implementation: picture, emoji, sticker and cosmetic animation, the chat bridge and the native frame player for avatar decorations; Always Animate for Valenced 1.0.0-beta16)",
+        "AlwaysAnimate for Vencord by FieryFlames (the idea)",
         "Found with the decompiled Discord app by Wumpus-Central (discord-mobile-datamining)"
       ],
-      "description": "Animates everything that can be animated: profile pictures, banners, server icons, avatar decorations, emoji, stickers, GIFs and status emoji. Pick what you want in the settings and run the self-check to see it work.",
+      "description": "Keeps animated profile pictures, banners, server icons, avatar decorations (ears), emoji, stickers, GIFs and nameplates playing, including in the chat. Works inside Discord's native chat, which normal plugins cannot reach.",
       "name": "Always Animate",
       "versions": {
         "1.0.0": {
@@ -5922,6 +7961,71 @@
           "sha256": "59d147e189826fb604193128fa9c2c9be615494529e94dc006220f31449a4b23",
           "size": 54972,
           "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.always-animate@4.0.1.zip"
+        },
+        "4.0.2": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "48b9a7c4295581b21539659347f9104008f4fdf608930f5c2bfd27d8c21bb0ad",
+          "size": 43161,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.always-animate@4.0.2.zip"
+        },
+        "4.1.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "a6d9100ecac56bed7e7cc0fa0ed7b3faa392ea02ce86afb865ec3b1c0d64af98",
+          "size": 43995,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.always-animate@4.1.0.zip"
+        },
+        "4.1.1": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "35f4031a15debe82b39dd6a89af31395e04943bb4c0fe2f99b044e624f43112a",
+          "size": 44155,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.always-animate@4.1.1.zip"
+        },
+        "4.1.2": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "c518e2847e7344e195a8d396a7db1bf87056a23af5590378822abacc6681058c",
+          "size": 44289,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.always-animate@4.1.2.zip"
+        },
+        "4.1.3": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "d48daf81df232dc0f7fb3eb0fdfdee23e82367b1f8807b5571f974ca401b7c68",
+          "size": 44844,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.always-animate@4.1.3.zip"
         }
       }
     },
@@ -6358,6 +8462,133 @@
           "sha256": "38ba7b5bd2ad6a01a445f99c8e233ab5141948c1afb4e52ec1e01a7d18fa335c",
           "size": 5914,
           "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.bypass-status@3.0.1.zip"
+        }
+      }
+    },
+    "marklong.channel-tabs": {
+      "author": "MarkLong0467 (https://github.com/MarkLong0467 \"GitHub\")",
+      "channels": {
+        "latest": "1.4.0"
+      },
+      "description": "Keep channels, DMs and threads open as tabs, like a browser. Switch between them, close one or all of them, and split the screen to read two at once.",
+      "name": "Channel Tabs",
+      "versions": {
+        "1.0.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "559025669655a731b2cf8f9e4050833ca0c77045539915fba9ca6909918ae107",
+          "size": 7994,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.channel-tabs@1.0.0.zip"
+        },
+        "1.1.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "69a578330e5fb0870168ba3ac234b9e18c0455c3d9a2de8ff8fa2780f14fb0ff",
+          "size": 8227,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.channel-tabs@1.1.0.zip"
+        },
+        "1.2.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "94867315c30344b903aaa6069a59d01a526f49530754275d0dd5d2b04dace6b7",
+          "size": 8736,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.channel-tabs@1.2.0.zip"
+        },
+        "1.3.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "cc7aabbcf9f296f944d13d8837020d09f0379f4e35f45811a30c1a216d3504aa",
+          "size": 9072,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.channel-tabs@1.3.0.zip"
+        },
+        "1.3.1": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "98ec99e2332e0335a804be219180bb692969726d456276ae00e7ab14df0a35ad",
+          "size": 9011,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.channel-tabs@1.3.1.zip"
+        },
+        "1.3.2": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "11c6ebd7467af460e820854ed8cecb6c661ff1f5380135fc603d52d9f84cd3ce",
+          "size": 9048,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.channel-tabs@1.3.2.zip"
+        },
+        "1.3.3": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "b290ceac6ba60ff70949f2cac7341eff46454400a70a9de36ccc8d2a67242c7b",
+          "size": 9346,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.channel-tabs@1.3.3.zip"
+        },
+        "1.3.4": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "46b3c0df7d8341bdf15e0480506a8dbd82eb83e14a98b64d463567e4b70374b9",
+          "size": 9568,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.channel-tabs@1.3.4.zip"
+        },
+        "1.4.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "030ebb475a85c9fed6b65f7375389b38b529af6ab8664681a40213b511fb36c2",
+          "size": 9669,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.channel-tabs@1.4.0.zip"
         }
       }
     },
@@ -7353,6 +9584,214 @@
         }
       }
     },
+    "marklong.i-remember-you": {
+      "author": "MarkLong0467 (https://github.com/MarkLong0467 \"GitHub\")",
+      "channels": {
+        "latest": "1.2.0"
+      },
+      "contributors": [
+        "zoodogood, keircn and tt (IRememberYou for Equicord, https://equicord.org/plugins/IRememberYou)"
+      ],
+      "description": "Locally saves everyone you've been communicating with (including servers), in case of loss: your friends, DMs and group DMs, people you mention or reply to, the owners of your servers and the members of servers you own.",
+      "name": "I Remember You",
+      "versions": {
+        "1.0.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "271fdbf362bc282d0fb7ae32cd0cfbc0a7d33391762c667af9c7b7ac10bf7905",
+          "size": 8511,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.i-remember-you@1.0.0.zip"
+        },
+        "1.1.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "152d0e8fad185e4ec073df968137556879b9357329b1059c1c55f9879a085c47",
+          "size": 8861,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.i-remember-you@1.1.0.zip"
+        },
+        "1.1.1": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "b30aa671aedba0de60b5eae9092b41c66053423628aa194d3b38d3d7d3331e0c",
+          "size": 9202,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.i-remember-you@1.1.1.zip"
+        },
+        "1.2.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "13a4ffabcae639b8638cb86834e7593cb1350a47488f2c4ea39225bc2f244f08",
+          "size": 9765,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.i-remember-you@1.2.0.zip"
+        }
+      }
+    },
+    "marklong.liquid-glass": {
+      "author": "MarkLong0467 (https://github.com/MarkLong0467 \"GitHub\")",
+      "channels": {
+        "latest": "1.5.1"
+      },
+      "contributors": [
+        "Oskar Kwaśniewski and Callstack <https://github.com/callstack> (https://github.com/callstack/liquid-glass \"Original library\")"
+      ],
+      "description": "Gives Discord a frosted glass look: see-through buttons, cards, text fields and sheets, in a colour and strength you pick. Also a library with the API of callstack/liquid-glass for other plugins.",
+      "name": "Liquid Glass",
+      "versions": {
+        "1.0.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "bd427dc75e8231a5f192e28389eb21763238f8ed2934b7e8272900db5776eee1",
+          "size": 5239,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.liquid-glass@1.0.0.zip"
+        },
+        "1.1.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "4d6a1e8ad8946b15f97754915422b609ae42fbb96ff3455e860f8e8351f98f75",
+          "size": 5978,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.liquid-glass@1.1.0.zip"
+        },
+        "1.2.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "bb2a6c1e8eca00dfdcc2e0503db566e28f9b1d0912f56581e20381e8e3291902",
+          "size": 6993,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.liquid-glass@1.2.0.zip"
+        },
+        "1.2.1": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "e4436cc24df629fc3ef75ada0a517dc277c6d12538c63d138deae39957b8e172",
+          "size": 7104,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.liquid-glass@1.2.1.zip"
+        },
+        "1.2.2": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "60b81890741d616ac37db8640b517de0f2cfc51ff16a36285e8bcd6b5273739a",
+          "size": 6923,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.liquid-glass@1.2.2.zip"
+        },
+        "1.3.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "110626bfb342e9d08416e28dc7f11a7d67d90a59b6ce66889fd9d14b7a9507ad",
+          "size": 7118,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.liquid-glass@1.3.0.zip"
+        },
+        "1.4.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "2cffc4b3e311fb365180d70736fa57ea8f59bb4dded958568aa42aaa1f6e016b",
+          "size": 7642,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.liquid-glass@1.4.0.zip"
+        },
+        "1.4.1": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "37500969280fe968aa8f7a70f81df8743e7297993f39d2baae892ff7e2ec7844",
+          "size": 7703,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.liquid-glass@1.4.1.zip"
+        },
+        "1.5.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "6db49e4c68cc08da5193e9c5811181da85b50563813a504e8771927df624a3eb",
+          "size": 8257,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.liquid-glass@1.5.0.zip"
+        },
+        "1.5.1": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "7bdd32acf9c75318a4b58a4bbb8100a589a11eedd895acf66902f537c824804b",
+          "size": 8398,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.liquid-glass@1.5.1.zip"
+        }
+      }
+    },
     "marklong.markdown-toolbar": {
       "author": "MarkLong0467 (https://github.com/MarkLong0467 \"GitHub\")",
       "channels": {
@@ -7874,6 +10313,32 @@
           "sha256": "af61f1eaf5fe9ee2e21b0927c13fdd9c78721084a5e879b7fdfe233959bdd67d",
           "size": 7410,
           "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.no-suggestions@1.3.2.zip"
+        }
+      }
+    },
+    "marklong.pastelize": {
+      "author": "MarkLong0467 (https://github.com/MarkLong0467 \"GitHub\")",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "contributors": [
+        "Cynosphere (https://github.com/Cynosphere \"Original Pastelize for Vendetta\")"
+      ],
+      "description": "Gives every name in chat its own pastel colour, worked out from the person's ID, so people without a role colour are easy to tell apart.",
+      "name": "Pastelize",
+      "versions": {
+        "1.0.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "aec6d41321033ae68d39046f08857e680c2ee5f8dcb9063cc82b0595608063bc",
+          "size": 6439,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.pastelize@1.0.0.zip"
         }
       }
     },
@@ -8400,7 +10865,7 @@
     "marklong.plugin-auditor": {
       "author": "MarkLong0467 (https://github.com/MarkLong0467 \"GitHub\")",
       "channels": {
-        "latest": "1.1.0"
+        "latest": "1.3.0"
       },
       "description": "Scans your installed plugins for sensitive access (your token, changes to your account or servers, running downloaded code), lists every link in their code, finds duplicate plugins and can check them on VirusTotal.",
       "name": "Plugin Auditor",
@@ -8482,6 +10947,45 @@
           "sha256": "efbc2f60e4026576d349b76e96adbd5fd693f7d498b03fe1ca40f7cf4c0fffcf",
           "size": 29826,
           "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.plugin-auditor@1.1.0.zip"
+        },
+        "1.2.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "48e8c74cce78d51719b74f1f16d54c33a78252f510fe96111561bcd421a84144",
+          "size": 30961,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.plugin-auditor@1.2.0.zip"
+        },
+        "1.2.1": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "864edbe0d1572e840db50f069bf04f421bd45556eb900b082ef304ee42cc1663",
+          "size": 30943,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.plugin-auditor@1.2.1.zip"
+        },
+        "1.3.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "fb861d1e7c3c3fd3aacfab286cc5c9fb4b380b1637b44d6c0c0b768cfe1abaf4",
+          "size": 31331,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.plugin-auditor@1.3.0.zip"
         }
       }
     },
@@ -8547,10 +11051,36 @@
         }
       }
     },
+    "marklong.reverse-image-search": {
+      "author": "MarkLong0467 (https://github.com/MarkLong0467 \"GitHub\")",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "contributors": [
+        "Ven and Nuckyz (ReverseImageSearch for Equicord, https://equicord.org/plugins/ReverseImageSearch)"
+      ],
+      "description": "Adds ImageSearch to image context menus: hold a picture, or open its menu in the viewer, then Search Image with Google, Yandex, SauceNAO, IQDB, Bing, TinEye, ImgOps or all of them.",
+      "name": "Reverse Image Search",
+      "versions": {
+        "1.0.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "a7ec706d17b52018f6abe4f800ec1fa16dc9e029583faec473a78e1a8c7c379e",
+          "size": 6351,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.reverse-image-search@1.0.0.zip"
+        }
+      }
+    },
     "marklong.rich-presence": {
       "author": "MarkLong0467 (https://github.com/MarkLong0467 \"GitHub\")",
       "channels": {
-        "latest": "2.1.2"
+        "latest": "2.1.3"
       },
       "description": "Show up to three presences at once, with an easy grouped editor, many timers (dates, countdowns, daily ranges), schedules and SoundCloud built in.",
       "name": "Rich Presence",
@@ -8710,6 +11240,19 @@
           "sha256": "a244dca22d19d5d3eea258f27aca8ac49d28fda3d72c429bc69de24e39df0b64",
           "size": 28057,
           "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.rich-presence@2.1.2.zip"
+        },
+        "2.1.3": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "5040080be3b60fae9e33dd5d31420c493994f2ba34a3bcfc6b60213162aaec6a",
+          "size": 28188,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.rich-presence@2.1.3.zip"
         }
       }
     },
@@ -8842,7 +11385,7 @@
     "marklong.server-info": {
       "author": "MarkLong0467 (https://github.com/MarkLong0467 \"GitHub\")",
       "channels": {
-        "latest": "1.2.1"
+        "latest": "1.2.2"
       },
       "contributors": [
         "fshin (https://github.com/kmmiio99o/revenge-plugins \"Original Server Info plugin for Revenge, CC0\")"
@@ -8992,6 +11535,19 @@
           "sha256": "3f9195ad91b2864811e5bc7bdc7d2353fbce31926f8ee91448f82f2c175d7db1",
           "size": 10666,
           "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.server-info@1.2.1.zip"
+        },
+        "1.2.2": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "4518dda4a319a656a9ab6447d5002dcdbb1726f0570c645a5ee9dc0b6b962d6c",
+          "size": 11017,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.server-info@1.2.2.zip"
         }
       }
     },
@@ -9613,6 +12169,58 @@
         }
       }
     },
+    "marklong.webhook-builder": {
+      "author": "MarkLong0467 (https://github.com/MarkLong0467 \"GitHub\")",
+      "channels": {
+        "latest": "1.0.2"
+      },
+      "contributors": [
+        "Discohook (https://discohook.app), whose message editor this follows"
+      ],
+      "description": "Discohook inside Discord: make messages with embeds, link buttons and polls and send them with your webhooks. Save, schedule, edit and delete them, find or make webhooks, and hold any message to copy, resend or change it.",
+      "name": "Webhook Builder",
+      "versions": {
+        "1.0.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "991c0f5742655fdf2ee2d5a2a1d02a057b73ca75958f84aadf0d5b32790fa3c1",
+          "size": 26780,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.webhook-builder@1.0.0.zip"
+        },
+        "1.0.1": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "178f1a4d06dbc37a13f559764c1efa40238a9b61e2d920911d9e6214a4e33ea4",
+          "size": 26936,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.webhook-builder@1.0.1.zip"
+        },
+        "1.0.2": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "1b0c43d7405bed453fc1ef75922d9a3af40707e472c039b914df5fd76bd76962",
+          "size": 27023,
+          "url": "https://raw.githubusercontent.com/MarkLong0467/EskimoPlugins/gh-pages/pool/marklong.webhook-builder@1.0.2.zip"
+        }
+      }
+    },
     "mudrhiod.actionsheetmessagepreview": {
       "author": "Mudrhiod <807170846497570848>",
       "channels": {
@@ -9665,7 +12273,7 @@
     "mudrhiod.solar": {
       "author": "Mudrhiod <807170846497570848>",
       "channels": {
-        "latest": "1.1.2"
+        "latest": "1.2.0"
       },
       "description": "Replaces Discord's icons with ones from the Solar iconset.",
       "name": "Solar",
@@ -9685,6 +12293,22 @@
           "sha256": "2e228373eca542c853832ce15dac3f2b4a7e223cfad9a4631681b13c3b112582",
           "size": 10065067,
           "url": "https://valenced.mudrhiod.me/pool/mudrhiod.solar@1.1.2.zip"
+        },
+        "1.2.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "valenced.api.themes": {
+              "version": "*"
+            }
+          },
+          "sha256": "f3b98dacd7c98578f334683c08f38d5d82a25e759c2906e691fcd06ebab372c7",
+          "size": 10508006,
+          "url": "https://valenced.mudrhiod.me/pool/mudrhiod.solar@1.2.0.zip"
         }
       }
     },
@@ -9828,7 +12452,7 @@
     "purpleeyez.gtavicountdown": {
       "author": "Purple_Ξye™ <646535537334812682> (https://github.com/Purple-EyeZ \"GitHub\")",
       "channels": {
-        "latest": "1.1.0"
+        "latest": "1.1.1"
       },
       "description": "Counting down until you reach heaven.",
       "icon": "ClockIcon",
@@ -9872,6 +12496,19 @@
           "sha256": "6bde8a9c0e9e5c5f7a2ec0cfca999fc71ab5a882a923839150b2951a5acf8469",
           "size": 3511,
           "url": "https://purple-eyez.github.io/Valenced-Plugins/pool/purpleeyez.gtavicountdown@1.1.0.zip"
+        },
+        "1.1.1": {
+          "dependencies": {
+            "discord": {
+              "version": ">=350.4"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "b3111ac903096e8b0c17f56627f95bb5ee1bbd864ccc62bbf20b539953b4324f",
+          "size": 3532,
+          "url": "https://purple-eyez.github.io/Valenced-Plugins/pool/purpleeyez.gtavicountdown@1.1.1.zip"
         }
       }
     },
@@ -10473,9 +13110,9 @@
     "rosie.file-uploader": {
       "author": "Rosie",
       "channels": {
-        "latest": "1.3.0"
+        "latest": "1.4.1"
       },
-      "description": "Upload files and attachments to 18+ services (Zipline, E-Z Host, Nest, S3, Catbox, 0x0, Litterbox, GoFile, tmpfiles, buzzheavier, temp.sh, filebin, PixelVault, PixelDrain, ShareX, WebDAV, Immich) and shorten URLs.",
+      "description": "Upload files and attachments to 25+ services (Zipline, Catbox, GoFile, temp.sh, Litterbox, Buzzheavier, Uguu, Pomf, Oshi, Imgur, Cloudinary, Gyazo, KrakenFiles, S3, WebDAV, Immich, E-Z Host, Nest, PixelVault, PixelDrain, ShareX, etc.) and shorten URLs.",
       "icon": "ic_upload",
       "name": "File Uploader",
       "versions": {
@@ -10555,6 +13192,19 @@
           "sha256": "404c78a8cf92bf7cb7ff82933205f371e96a2aac35e70227175920e95f294ce4",
           "size": 18187,
           "url": "https://val.is-your.app/rosie.file-uploader@1.3.0.zip"
+        },
+        "1.4.1": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "313c95ff12e375f8aea1f939bc3384df9dac05ad79168f067e0f3b06552dd7ba",
+          "size": 20896,
+          "url": "https://val.is-your.app/rosie.file-uploader@1.4.1.zip"
         }
       }
     },
@@ -10978,6 +13628,69 @@
           "sha256": "26b053326ca6294ef2ec9f2c3b3cddafe051c527b05f5b6ef2b2cb75ca0ed2f4",
           "size": 14747,
           "url": "https://val.is-your.app/rosie.more-alts@1.1.3.zip"
+        }
+      }
+    },
+    "rosie.pastelize": {
+      "author": "Rosie",
+      "channels": {
+        "latest": "1.0.4"
+      },
+      "description": "Colors all usernames with unique deterministic pastel hues based on user ID, regardless of role color.",
+      "icon": "ic_custom_color",
+      "name": "Pastelize",
+      "versions": {
+        "1.0.1": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "23e35d1585ea6742ffbdac4859852129c95193486af1c3b58f3506e6cd2cd67f",
+          "size": 4488,
+          "url": "https://val.is-your.app/rosie.pastelize@1.0.1.zip"
+        },
+        "1.0.2": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "f976f7392b8e15fa29cdbd0c9d34cd2399668d5c575833b585610eef1f48d2cb",
+          "size": 4497,
+          "url": "https://val.is-your.app/rosie.pastelize@1.0.2.zip"
+        },
+        "1.0.3": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "ed1f342f942778a19e969a3488612baafdc6e2f98eae068b33e277e436ba2f16",
+          "size": 4592,
+          "url": "https://val.is-your.app/rosie.pastelize@1.0.3.zip"
+        },
+        "1.0.4": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "7a78365cc62027578445fe5e2ec1505b5351c9aa60a0dfa4d8d0b4aac0f32e9f",
+          "size": 4636,
+          "url": "https://val.is-your.app/rosie.pastelize@1.0.4.zip"
         }
       }
     },
@@ -11637,6 +14350,73 @@
         }
       }
     },
+    "wolfie.better-devices": {
+      "author": "Rosie, kmmiio99o",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "contributors": [
+        "Wolfie <347096063569559553> (https://wolfies.org/ \"Website\") (https://github.com/Wolfkid200444 \"GitHub\")"
+      ],
+      "description": "Better session control: multi-select logout, new-device alerts, and clearer device details.",
+      "icon": "LaptopPhoneIcon",
+      "name": "Better Devices",
+      "versions": {
+        "1.0.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "1d7ff7b761e81f29fdc3bfa4ae70c81f75a0a08de7c246faadc41d5e0f3954ac",
+          "size": 4943,
+          "url": "https://plugins.obamabot.me/valenced-plugins/pool/wolfie.better-devices@1.0.0.zip"
+        }
+      }
+    },
+    "wolfie.better-inbox": {
+      "author": "Rosie",
+      "channels": {
+        "latest": "1.0.1"
+      },
+      "contributors": [
+        "Wolfie <347096063569559553> (https://wolfies.org/ \"Website\") (https://github.com/Wolfkid200444 \"GitHub\")"
+      ],
+      "description": "Categorizes Discord notifications into clean tabs with filters for mentions, replies, reactions, and threads.",
+      "icon": "BellIcon",
+      "name": "BetterInbox",
+      "versions": {
+        "1.0.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "8d7accdf5e3195e05411f5c0cda220a5fd9bf9e745c7b930b74757cc9b8a59a0",
+          "size": 9374,
+          "url": "https://plugins.obamabot.me/valenced-plugins/pool/wolfie.better-inbox@1.0.0.zip"
+        },
+        "1.0.1": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "4b710bf023750948fc7a23edd1053e52b885abdbc15e7f7779f19033fd097d40",
+          "size": 10178,
+          "url": "https://plugins.obamabot.me/valenced-plugins/pool/wolfie.better-inbox@1.0.1.zip"
+        }
+      }
+    },
     "wolfie.bot-client": {
       "author": "Wolfie <347096063569559553> (https://wolfies.org/ \"Website\") (https://github.com/Wolfkid200444 \"GitHub\")",
       "channels": {
@@ -11673,6 +14453,29 @@
           "sha256": "2dc51fdba9444b2154030a2d97c9ee9fa5a52b5309c60b3faea5df2f30545383",
           "size": 14692,
           "url": "https://plugins.obamabot.me/valenced-plugins/pool/wolfie.bot-client@1.0.1.zip"
+        }
+      }
+    },
+    "wolfie.chat-ragdoll": {
+      "author": "Wolfie <347096063569559553> (https://wolfies.org/ \"Website\") (https://github.com/Wolfkid200444 \"GitHub\")",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "description": "Shake your phone to drop chat into a pile. New messages launch the pile upward.",
+      "name": "Chat Ragdoll",
+      "versions": {
+        "1.0.0": {
+          "dependencies": {
+            "discord": {
+              "version": ">=351.1"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "7ef52e5a1a166bae66768101b114767ec5e2b4a9b5dcc985b518104a26aaf570",
+          "size": 25459,
+          "url": "https://plugins.obamabot.me/valenced-plugins/pool/wolfie.chat-ragdoll@1.0.0.zip"
         }
       }
     },
@@ -11743,7 +14546,7 @@
     "wolfie.media-utils": {
       "author": "Wolfie <347096063569559553> (https://wolfies.org/ \"Website\") (https://github.com/Wolfkid200444 \"GitHub\")",
       "channels": {
-        "latest": "1.1.0"
+        "latest": "1.3.2"
       },
       "description": "Rotate and zoom media, search images, crop images, and trim and crop video attachments.",
       "icon": "ImageIcon",
@@ -11813,6 +14616,85 @@
           "sha256": "245f0c813de9637d3dd4790bdf5acfa023acd6c0642a642f487b5217d5a54678",
           "size": 92647,
           "url": "https://plugins.obamabot.me/valenced-plugins/pool/wolfie.media-utils@1.1.0.zip"
+        },
+        "1.2.0": {
+          "dependencies": {
+            "discord": {
+              "version": ">=351.1"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "a3cbb07425802f8d29c142468415821c00166db922b5e98b2f16e7950861d48a",
+          "size": 93432,
+          "url": "https://plugins.obamabot.me/valenced-plugins/pool/wolfie.media-utils@1.2.0.zip"
+        },
+        "1.3.0": {
+          "dependencies": {
+            "discord": {
+              "version": ">=351.1"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "46b9b9b192c913672594c0a5adc7271ccb3918b054280ccb58fa40ec7d4a3cdc",
+          "size": 97624,
+          "url": "https://plugins.obamabot.me/valenced-plugins/pool/wolfie.media-utils@1.3.0.zip"
+        },
+        "1.3.1": {
+          "dependencies": {
+            "discord": {
+              "version": ">=351.1"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "5336a047b30baef1e7ffe836e46bf8b26681dd7eaa48cba6be5d34e67e0fdb56",
+          "size": 97698,
+          "url": "https://plugins.obamabot.me/valenced-plugins/pool/wolfie.media-utils@1.3.1.zip"
+        },
+        "1.3.2": {
+          "dependencies": {
+            "discord": {
+              "version": ">=351.1"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "6a940c7ecb65452dac9214f0ad157aa9c23b74efe6701a897ebca8eb6b6d01cc",
+          "size": 97831,
+          "url": "https://plugins.obamabot.me/valenced-plugins/pool/wolfie.media-utils@1.3.2.zip"
+        }
+      }
+    },
+    "wolfie.more-alts": {
+      "author": "Rosie",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "contributors": [
+        "Wolfie <347096063569559553> (https://wolfies.org/ \"Website\") (https://github.com/Wolfkid200444 \"GitHub\")"
+      ],
+      "description": "Manage and switch between multiple Discord accounts, plus unlocks Discord's own native multi-account switcher.",
+      "icon": "ic_full_server_gating_24px",
+      "name": "More Alts!",
+      "versions": {
+        "1.0.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "2ece413d03db119d208e199335fe2c79a740564d061b81bf22f6ee8b50ccc722",
+          "size": 13328,
+          "url": "https://plugins.obamabot.me/valenced-plugins/pool/wolfie.more-alts@1.0.0.zip"
         }
       }
     },
@@ -11867,8 +14749,11 @@
     "wolfie.questify": {
       "author": "Wolfie <347096063569559553> (https://wolfies.org/ \"Website\") (https://github.com/Wolfkid200444 \"GitHub\")",
       "channels": {
-        "latest": "1.0.1"
+        "latest": "1.0.3"
       },
+      "contributors": [
+        "dxckiee <772390964471791630>"
+      ],
       "description": "Browse Discord quests, track progress, and auto-complete supported quests from their menus.",
       "icon": "QuestsIcon",
       "name": "Questify",
@@ -11898,6 +14783,59 @@
           "sha256": "091fc18cef356d0c78137ac0480f74081a968cbee8ee6daf8206ee53aba953ff",
           "size": 17259,
           "url": "https://plugins.obamabot.me/valenced-plugins/pool/wolfie.questify@1.0.1.zip"
+        },
+        "1.0.2": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "f7f036fcd78f3346d4e450ac274c6df9bbaa92dddcb63353dc77078bd4738dd3",
+          "size": 17595,
+          "url": "https://plugins.obamabot.me/valenced-plugins/pool/wolfie.questify@1.0.2.zip"
+        },
+        "1.0.3": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "e38eacf53dcca931f2ccc179f0f11600ddfa543c6b7a9153fe819e6c89e24196",
+          "size": 21671,
+          "url": "https://plugins.obamabot.me/valenced-plugins/pool/wolfie.questify@1.0.3.zip"
+        }
+      }
+    },
+    "wolfie.server-info": {
+      "author": "Rosie, kmmiio99o",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "contributors": [
+        "Wolfie <347096063569559553> (https://wolfies.org/ \"Website\") (https://github.com/Wolfkid200444 \"GitHub\")"
+      ],
+      "description": "View server information from the guild context menu.",
+      "icon": "CircleInformationIcon",
+      "name": "Server Info",
+      "versions": {
+        "1.0.0": {
+          "dependencies": {
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            }
+          },
+          "sha256": "dbc98ad4d6c7d6ebfcf2d36c72b769e571572c458250c46c47d115ed8ad65043",
+          "size": 4822,
+          "url": "https://plugins.obamabot.me/valenced-plugins/pool/wolfie.server-info@1.0.0.zip"
         }
       }
     },
@@ -11972,20 +14910,20 @@
     "yumistra.better-channel-list": {
       "author": "Yumistra",
       "channels": {
-        "latest": "1.0.2"
+        "latest": "1.0.4"
       },
       "description": "Shows the last message under each channel and gives channels emoji icons.",
       "icon": "ChatIcon",
       "name": "Better Channel List",
       "versions": {
-        "1.0.2": {
+        "1.0.4": {
           "dependencies": {
             "discord": {},
             "valenced.api": {}
           },
-          "sha256": "9d895abfb9114778b1fd8275fbfb6754790af9c9d8c32164aa2ab88551e0e228",
-          "size": 42690,
-          "url": "https://yumistra.github.io/Freestyle-Valenced/pool/yumistra.better-channel-list@1.0.2.zip"
+          "sha256": "ed7d5b2b268a01837360e72e8103ae0f70ac787832e7d5e2eab18adfefa882e2",
+          "size": 42903,
+          "url": "https://yumistra.github.io/Freestyle-Valenced/pool/yumistra.better-channel-list@1.0.4.zip"
         }
       }
     },
@@ -12009,23 +14947,43 @@
         }
       }
     },
+    "yumistra.commands": {
+      "author": "Yumistra",
+      "channels": {
+        "latest": "1.0.3"
+      },
+      "description": "/plugins, /eval and /debug, with a detailed option.",
+      "icon": "SlashBoxIcon",
+      "name": "Commands",
+      "versions": {
+        "1.0.3": {
+          "dependencies": {
+            "discord": {},
+            "valenced.api": {}
+          },
+          "sha256": "1678d589a89b92703910ff33835815e01cd7d916d37d0615a5c96e2f86c746ab",
+          "size": 8098,
+          "url": "https://yumistra.github.io/Freestyle-Valenced/pool/yumistra.commands@1.0.3.zip"
+        }
+      }
+    },
     "yumistra.custom-welcome": {
       "author": "Yumistra",
       "channels": {
-        "latest": "1.0.2"
+        "latest": "1.0.3"
       },
       "description": "Your own message or sticker for Wave buttons.",
       "icon": "HandRequestSpeakIcon",
       "name": "Custom Welcome",
       "versions": {
-        "1.0.2": {
+        "1.0.3": {
           "dependencies": {
             "discord": {},
             "valenced.api": {}
           },
-          "sha256": "e3d4a2848206612595d977f7b6c43917038ac15cb0484bb6fd3264045916dcfa",
-          "size": 15615,
-          "url": "https://yumistra.github.io/Freestyle-Valenced/pool/yumistra.custom-welcome@1.0.2.zip"
+          "sha256": "8667b67fadb4392bfa84c24af5906c0e128dc4e99aed1142fb3a86443aaabf52",
+          "size": 16019,
+          "url": "https://yumistra.github.io/Freestyle-Valenced/pool/yumistra.custom-welcome@1.0.3.zip"
         }
       }
     },
@@ -12089,23 +15047,43 @@
         }
       }
     },
+    "yumistra.mini-chat": {
+      "author": "Yumistra",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "description": "Open channels in floating or split windows inside Discord, and watch several at once.",
+      "icon": "ChatIcon",
+      "name": "Mini Chat",
+      "versions": {
+        "1.0.0": {
+          "dependencies": {
+            "discord": {},
+            "valenced.api": {}
+          },
+          "sha256": "44a1872e565fcbbaea04813fd8029da394e522410c83cd9419b9050e4be9db6a",
+          "size": 17216,
+          "url": "https://yumistra.github.io/Freestyle-Valenced/pool/yumistra.mini-chat@1.0.0.zip"
+        }
+      }
+    },
     "yumistra.multi-rpc": {
       "author": "Yumistra",
       "channels": {
-        "latest": "1.0.3"
+        "latest": "1.0.4"
       },
       "description": "Show several custom activities at once.",
       "icon": "GameControllerIcon",
       "name": "Multi RPC",
       "versions": {
-        "1.0.3": {
+        "1.0.4": {
           "dependencies": {
             "discord": {},
             "valenced.api": {}
           },
-          "sha256": "5b4d6342f085a6d76b4e8ab2fbf703cd5cd65abd09e4a4fc37c111d0da1dde3a",
-          "size": 11988,
-          "url": "https://yumistra.github.io/Freestyle-Valenced/pool/yumistra.multi-rpc@1.0.3.zip"
+          "sha256": "5ccb0653a1f0c0d52a8a353f6b683256fdfc76f76edc03741893058ae4be4fd0",
+          "size": 12649,
+          "url": "https://yumistra.github.io/Freestyle-Valenced/pool/yumistra.multi-rpc@1.0.4.zip"
         }
       }
     },
@@ -12132,20 +15110,20 @@
     "yumistra.reaction-words": {
       "author": "Yumistra",
       "channels": {
-        "latest": "1.0.0"
+        "latest": "1.0.1"
       },
       "description": "Spell words with letter reactions, and long press the add reaction button to react with every emoji on a message.",
       "icon": "ReactionIcon",
-      "name": "Reaction Words",
+      "name": "Reaction+",
       "versions": {
-        "1.0.0": {
+        "1.0.1": {
           "dependencies": {
             "discord": {},
             "valenced.api": {}
           },
-          "sha256": "670a65c66b6e609877587814dd566b67083a33e20d8abe6fc085df46ee21c870",
-          "size": 34471,
-          "url": "https://yumistra.github.io/Freestyle-Valenced/pool/yumistra.reaction-words@1.0.0.zip"
+          "sha256": "dbfe3a7ca7fc407736f0824f6a06092b890a8a05256841e1194f9a1088753ef5",
+          "size": 47737,
+          "url": "https://yumistra.github.io/Freestyle-Valenced/pool/yumistra.reaction-words@1.0.1.zip"
         }
       }
     },
@@ -12166,6 +15144,26 @@
           "sha256": "edc82fbec097304ccff7773d6863bd01da1c420b9fbcd472c77512a98443641e",
           "size": 3746,
           "url": "https://yumistra.github.io/Freestyle-Valenced/pool/yumistra.silent-leave@1.0.2.zip"
+        }
+      }
+    },
+    "yumistra.silent-mentions": {
+      "author": "Yumistra",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "description": "Mention people without notifying them.",
+      "icon": "AtIcon",
+      "name": "Silent Mentions",
+      "versions": {
+        "1.0.0": {
+          "dependencies": {
+            "discord": {},
+            "valenced.api": {}
+          },
+          "sha256": "5ece7b01b7e1067452007030a1687b4dee10b04be8bbe252b310168b68c515e5",
+          "size": 4375,
+          "url": "https://yumistra.github.io/Freestyle-Valenced/pool/yumistra.silent-mentions@1.0.0.zip"
         }
       }
     },
@@ -12206,6 +15204,26 @@
           "sha256": "015d8f266948763ceea21b071a222411fca8241e86bc3bf7d2002e2091de2b29",
           "size": 20255,
           "url": "https://yumistra.github.io/Freestyle-Valenced/pool/yumistra.sticker-with-text@1.0.0.zip"
+        }
+      }
+    },
+    "yumistra.voice-overlay": {
+      "author": "Yumistra",
+      "channels": {
+        "latest": "1.0.5"
+      },
+      "description": "Shows who is in your voice channel, and who is talking, over other apps like the PC overlay.",
+      "icon": "VoiceNormalIcon",
+      "name": "Voice Overlay",
+      "versions": {
+        "1.0.5": {
+          "dependencies": {
+            "discord": {},
+            "valenced.api": {}
+          },
+          "sha256": "0c6e24b30e3f54e9c00cd4b8290fb3086dafa3ca3e654844db11c6aa54fdb7fd",
+          "size": 47749,
+          "url": "https://yumistra.github.io/Freestyle-Valenced/pool/yumistra.voice-overlay@1.0.5.zip"
         }
       }
     }
